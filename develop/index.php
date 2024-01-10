@@ -18,20 +18,22 @@
 <?php require(INCLUDES."header.php"); ?>
 
 <main>
-  <div class="top-mv">
-    <figure class="pc"><img src="./images/top/mv-pc.jpg" alt="" class="w_100"></figure>
-      <div class="top-mv__slide tb">
-        <figure><img src="./images/top/mv-sp.jpg" alt="" class="w_100"></figure>
-      </div>
-   </div><!--//top-mv -->
+  <div class="top-mv__slide pc">
+    <figure><img src="./images/top/mv01-pc.jpg" alt="" class="w_100 pc">></figure>
+    <figure><img src="./images/top/mv02-pc.jpg" alt="" class="w_100 pc"></figure>
+  </div><!--//top-mv -->
+  <div class="top-mv__slide sp tb">
+    <figure><img src="./images/top/mv01-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">外観完成予想図</p></figure>
+    <figure><img src="./images/top/mv02-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">航空写真</p></figure>
+  </div><!--//top-mv -->
   
   <!-- バナースライド -->
   <div class="top-banner">
     <div class="container">
       <!-- バナー上 -->
-        <script type="text/javascript" src="/bukken_manage/bukken_manage_banner.cgi?AREA_CD=kansai&PROP_CD=furukawabashi/&BANNER=first"></script>
+        <script type="text/javascript" src="/bukken_manage/bukken_manage_banner.cgi?AREA_CD=shuto&PROP_CD=/&BANNER=first"></script>
       <!-- バナー下 -->
-        <script type="text/javascript" src="/bukken_manage/bukken_manage_banner.cgi?AREA_CD=kansai&PROP_CD=furukawabashi/&BANNER=second"></script>
+        <script type="text/javascript" src="/bukken_manage/bukken_manage_banner.cgi?AREA_CD=shuto&PROP_CD=/&BANNER=second"></script>
     </div>
   </div><!-- / バナースライド -->
 
@@ -43,7 +45,7 @@
       </div>
       <div class="information-box">
         <div class="information-box-wrapper">
-          <div id="topics" class="informationTopics" data-area-cd="kansai" data-prop-cd="furukawabashi"></div>
+          <div id="topics" class="informationTopics" data-area-cd="shuto" data-prop-cd=""></div>
         </div>
       </div>
     </div>
@@ -56,21 +58,21 @@
       </div>
       <div class="contents-link">
         <a href="./concept.html">
-          <figure><img src="./images/top/img_concept.jpg" alt="コンセプト"></figure>
+          <figure><img src="./images/top/img_concept.jpg" alt="コンセプト"><p class="annotation white">航空写真</p></figure>
             <div class="contents-link__ttl">
               <p class="f-en">CONCEPT</p>
               <h3>コンセプト</h3>
             </div>
         </a>
         <a href="./location01.html">
-          <figure><img src="./images/top/img_location.jpg" alt="ロケーション"></figure>
+          <figure><img src="./images/top/img_location.jpg" alt="ロケーション"><p class="annotation white">image photo</p></figure>
             <div class="contents-link__ttl">
               <p class="f-en">LOCATION</p>
               <h3>ロケーション</h3>
             </div>
         </a>
         <a href="./access.html">
-          <figure><img src="./images/top/img_access.jpg" alt="アクセス"></figure>
+          <figure><img src="./images/top/img_access.jpg" alt="アクセス"><p class="annotation white">image photo</p></figure>
             <div class="contents-link__ttl">
               <p class="f-en">ACCESS</p>
               <h3>アクセス</h3>
@@ -88,7 +90,7 @@
 
   
   <div class="container ma_to20 ma_bo20">
-    <p class="caption">※1.官民一体駅前大規模複合開発とは、門真市幸福東土地区画整理事業[2025年度事業完了予定 出典：大阪府ホームページ(2023年9月時点)]のことであり、本物件販売対象はタワー棟、民間施設棟、多目的広場となります。なお、賑わいの輪、(仮称)門真市立生涯学習複合施設等は本物件のものではありません。あらかじめご了承ください。<br>※2. 距離表示については地図上の概測距離を、徒歩分数表示については80ｍを1分として算出し、端数を切り上げたものです。掲載の徒歩分数は2023年10月現在のものです。「門真市幸福東土地区画整理事業」（事業主：門真市幸福東土地区画整理組合）に伴う地区外道路4号線および交流広場・交通広場の整備（2026年度事業完了予定）により徒歩分数・ルートが変更になる予定です。また、地区外道路4号線および交流広場・交通広場は門真市の所有であり、「シティタワー古川橋」の竣工時に完成していない可能性があります。あらかじめご了承ください。<br>※3. 1995年1月～2023年6月までに門真市内で新規供給された分譲マンションのうち、本プロジェクトの総戸数648戸は過去最大規模の戸数であり、41階建ては過去最高層となります。（有）MRC調べ（2023年9月現在）<br>※4. 京阪本線「古川橋」駅より京阪本線区間急行利用（平常時：京阪本線区間急行利用、「守口市」駅で京阪本線準急に乗換）<br>※5. 京阪本線「古川橋」駅より京阪本線区間急行利用、「京橋」駅でJR大阪環状線に乗換（平常時：京阪本線利用、「守口市」駅で京阪本線準急に乗換、「京橋」駅でJR大阪環状線関空快速に乗換）<br>※掲載の所要時間は待ち時間・乗り換え時間を含んだ通勤時（カッコ内は平常時）の目安であり、時間帯により多少異なります。<br>※掲載の完成予想図は計画段階の図面を基に描き起こしたもので、実際とは多少異なります。また、形状の細部および設備機器等については省略しております。<br>※外構・植栽計画は今後変更される場合がありますので、あらかじめご了承ください。<br>※敷地内の樹木等はある程度生育した後をイメージして描いたものです。また、葉や花の色合い、樹形等はイメージであり実際とは異なります。なお、植栽計画は変更される場合がありますので、あらかじめご了承ください。</p>
+    <p class="caption">※1. 3駅3路線とは、都営浅草線・都営三田線「三田」駅、ゆりかもめ「芝浦ふ頭」駅、「日の出」駅のことです。<br>※2. <芝浦一丁目計画>本計画は2018年3月に都市計画決定しており、S棟は2025年2月竣工予定。出典：東京都都市整備局HP、芝浦プロジェクトHP（2023年12月現在）、<浜松町二丁目地区第一種市街地再開発事業>工事完了（予定）：　2026年度、出典：株式会社世界貿易センタービルディングHP、港区HP（2023年12月現在）、<三田小山町西地区第一種市街地再開発事業>工事完了（予定）：2028年度、出典：三井不動産レジデンシャル株式会社HP、港区HP（2023年12月現在）、<高輪ゲートウェイシティ> 2025年3月開業予定、出典：東日本旅客鉄道株式会社HP（2023年12月現在）、<羽田空港アクセス線（仮称）>2031年度開業予定、出典：東日本旅客鉄道株式会社HP（2023年12月現在）、<リニア中央新幹線>品川・名古屋間：2027年開業予定。品川・新大阪間：2045年開業予定。一部区間の工事遅延により遅れる見通しがあります。出典：国土交通省HP、JR東海HP（2023年12月現在）<br>※3. 本物件の敷地の一部は公開空地となっており、居住者以外の第三者が通行することとなります。<br>※掲載の外観完成予想図は、現地26階相当から北西方面を撮影した写真（2023年12月撮影）に計画段階の図面を基に描き起こした建物完成予想図をＣＧ合成・加工したもので、実際とは異なります。　また、形状の細部および設備機器等については省略しております。周辺環境・眺望は将来変わる場合があります。<br>※掲載の距離表示については地図上の概測距離を、徒歩分数表示については80mを１分として算出し、端数を切り上げたものです。<br>※掲載の航空写真は港区湾岸3丁目付近上空から北西方面を撮影（2023年12月）したものに現地部分の光などＣＧ合成・加工をしたものです。また、周辺環境は将来変わる場合があります。</p>
   </div>
 
 <?php require(INCLUDES."footer.php"); ?>

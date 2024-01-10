@@ -4,8 +4,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
 <?php
 $site_setting = array(
-  "area" => "kansai",
-  "prop" => "furukawabashi",
+  "area" => "shuto",
+  "prop" => "",
   "tel_link" => "tel:0120330648",
   "meta_link" => "https://www.sumitomo-rd-mansion.jp/gallery/",
   "requested_only" => "#requested_only",
@@ -13,14 +13,14 @@ $site_setting = array(
 $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 ?>
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="keywords" content="<?= $page_settings["keywords"] ?>シティタワー古川橋,古川橋 新築分譲マンション,門真市 新築マンション,古川橋,古川橋駅,京阪本線,門真市,マンション,新築マンション,分譲マンション,住友不動産">
-<meta name="description" content="<?= $page_settings["description"] ?>京阪本線「古川橋駅」まで徒歩4分。住友不動産の新築マンションが古川橋に誕生。【すみふ古川橋】門真市の新築分譲マンションなら住友不動産。">
-<title><?= $page_settings["title"] ?>【公式】シティタワー古川橋｜古川橋の新築マンション｜住友不動産</title>
+<meta name="keywords" content="<?= $page_settings["keywords"] ?>シティタワー○○○,○○○ 新築分譲マンション,門真市 新築マンション,○○○,○○○駅,京阪本線,門真市,マンション,新築マンション,分譲マンション,住友不動産">
+<meta name="description" content="<?= $page_settings["description"] ?>京阪本線「○○○駅」まで徒歩4分。住友不動産の新築マンションが○○○に誕生。【すみふ○○○】門真市の新築分譲マンションなら住友不動産。">
+<title><?= $page_settings["title"] ?>【公式】シティタワー○○○｜○○○の新築マンション｜住友不動産</title>
 <meta property="og:url" content="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
 <meta property="og:type" content="website" />
-<meta property="og:title" content="<?= $page_settings["title"] ?>【公式】シティタワー古川橋｜古川橋の新築マンション｜住友不動産">
-<meta property="og:description" content="<?= $page_settings["description"] ?>京阪本線「古川橋駅」まで徒歩4分。住友不動産の新築マンションが古川橋に誕生。【すみふ古川橋】門真市の新築分譲マンションなら住友不動産。">
-<meta property="og:site_name" content="<?= $page_settings["title"] ?>【公式】シティタワー古川橋｜古川橋の新築マンション｜住友不動産">
+<meta property="og:title" content="<?= $page_settings["title"] ?>【公式】シティタワー○○○｜○○○の新築マンション｜住友不動産">
+<meta property="og:description" content="<?= $page_settings["description"] ?>京阪本線「○○○駅」まで徒歩4分。住友不動産の新築マンションが○○○に誕生。【すみふ○○○】門真市の新築分譲マンションなら住友不動産。">
+<meta property="og:site_name" content="<?= $page_settings["title"] ?>【公式】シティタワー○○○｜○○○の新築マンション｜住友不動産">
 <meta property="og:image" content="<?= $page_settings["directory_pos"] ?>images/top/ogp.jpg" />
 
 <link rel="canonical" href="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
@@ -77,11 +77,11 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
     <h1 class="header-logo">
       <a href="index.html">
         <figure><img src="<?= $page_settings["directory_pos"]  ?>images/common/logo-pc.png" alt=""></figure>
-        <p>古川橋駅徒歩4分｜シティタワー古川橋｜門真市 新築マンション｜<?= $page_settings["logo_text"]  ?>すみふ古川橋｜住友不動産</p>
+        <p>○○○駅徒歩4分｜シティタワー○○○｜門真市 新築マンション｜<?= $page_settings["logo_text"]  ?>すみふ○○○｜住友不動産</p>
       </a>
     </h1><!-- header-logo -->
     <div class="header-right d-flex">
-               <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=kansai&PROP_CD=furukawabashi&LINK=header"></script>
+               <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=&LINK=header"></script>
                     <div id="sp-menu-btn" class="hamburger">
                         <p>MENU</p>
                         <div class="menu-trigger">
@@ -125,8 +125,8 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
           <li class="has-child">
             <p class="active"><span class="f-en">LOCATION</span><br>ロケーション</p>
             <div class="sub-menu">
-              <a href="<?= $page_settings["directory_pos"]  ?>location01.html">「古川橋」駅前が生まれ変わる</a>
-              <a href="<?= $page_settings["directory_pos"]  ?>location02.html">たしかな暮らしやすさがここにある</a>
+              <a href="<?= $page_settings["directory_pos"]  ?>location01.html">煌びやかに、上質な日常を楽しむ</a>
+              <a href="<?= $page_settings["directory_pos"]  ?>location02.html">暮らしを満たし、心を潤す住環境</a>
             </div>
           </li>
           <li>
@@ -136,18 +136,18 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
       </nav>
       <div class="header-menu-right">
         <ul class="header-menu-btn">
-          <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=kansai&PROP_CD=furukawabashi&LINK=header-menu"></script>
+          <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=&LINK=header-menu"></script>
         </ul>
         <div class="header-menu-other">
           <ul>
             <li><a href="map.html" target="_blank">現地案内図</a></li>
-            <li><a href="/kansai/furukawabashi/faq.cgi" target="_blank">FAQ</a></li>
+            <li><a href="/shuto//faq.cgi" target="_blank">FAQ</a></li>
             <li><a href="javascript:outline();">物件概要</a></li>
             <li><p>マンション情報ブログ</p></li>
           </ul>
           <div class="header-sns">
-            <a href="https://twitter.com/furukawabashi" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
-            <a href="https://www.instagram.com/furukawabashi" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
+            <a href="https://twitter.com/" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
+            <a href="https://www.instagram.com/" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
           </div>
         </div>
       </div>
@@ -169,13 +169,13 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         <li><a href="<?= $page_settings["directory_pos"]  ?>map.html" target="_blank">現地案内図</a></li>
         <li><a href="javascript:outline();">物件概要</a></li>
         <li><p href="javascript:blog();">マンション情報ブログ</p></li>
-        <li><a href="/kansai/furukawabashi/faq.cgi" target="_blank">FAQ</a></li>
-        <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=kansai&PROP_CD=furukawabashi&LINK=sp-menu"></script>
+        <li><a href="/shuto//faq.cgi" target="_blank">FAQ</a></li>
+        <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=&LINK=sp-menu"></script>
       </ul>
     </nav>
     <div class="sp-menu-sns d-flex justify-content-center align-items-center">
-      <a href="https://twitter.com/furukawabashi" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
-       <a href="https://www.instagram.com/furukawabashi" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
+      <a href="https://twitter.com/" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
+       <a href="https://www.instagram.com/" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
     </div>
   </div><!--//sp-menu -->
 </header>

@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティタワー古川橋｜古川橋 新築分譲マンション｜トップ</a></li>
+      <li><a href="./index.html">シティタワー〇〇｜芝浦 新築分譲マンション｜トップ</a></li>
       <li><p>コンセプト</p></li>
     </ul>
   </div>
@@ -29,59 +29,21 @@
 
   <header class="main-visual clearfix">
     <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/concept/mv.jpg" alt=""><p class="annotation white">外観完成予想図</p></div>
+   <div class="image"><img src="./images/concept/mv.jpg" alt=""><p class="annotation white">航空写真</p></div>
   </header><!-- main-visual -->
 
   
   <section class="intro sections clearfix">
     <div class="inner">
-      <p class="text">街区面積約27,800㎡の広大なエリアを一新する、<br class="pc">官民一体の大規模複合開発<sup>※1</sup>。<br>ここに、門真市の新しい賑わい拠点が誕生します。</p>
+      <p class="title">港区に誇る、憧憬のタワー</p>
+      <p class="text">世界の国々とつながる大使館が点在し<br>企業の拠点が集積する港区。<br>JR山手線・京浜東北線「田町」駅（約750m ／ 徒歩10分）をはじめ<br>その他3駅3路線利用可能で「東京」駅へ9分（7分）、「品川」駅へ4分（4分）と<br>優れた利便性を備えたロケーションに生まれる<br>地上34階建・免震タワーレジデンス「シティタワー◯ ◯ 」。<br>街に際立つ洗練されたデザインの景観と迎賓のエントランス、<br>スカイラウンジ、フィットネスルーム、テレワークラウンジなどの共用施設。<br>これらを享受する快適な住み心地は<br>多くの人々の憧れとなり、<br>また一段と幸福を感じていく住まいとなっていく。</p>
       </div>
   </section><!-- intro -->
 
 
-  <div class="sections images">
-    <div class="image img01">
-      <img src="./images/concept/img01.jpg" alt="">
-      <p class="annotation white">賑わいの輪完成予想CG【提供画像】<sup>※2</sup></p>
-    </div>
-    <div class="image img02">
-      <img src="./images/concept/img02.jpg" alt="" class="pc">
-      <img src="./images/concept/img02-sp.jpg" alt="" class="tb">
-      <p class="annotation white">賑わいの輪完成予想CG【提供画像】<sup>※2</sup></p>
-    </div>
-    <div class="texts tb">
-      <div class="inner">
-        <p class="text">門真市内最大・最高層<sup>※3</sup>のタワーを中心に、たくさんの笑顔が集う複合街区。</p>
-        <p class="lead">新しい街区のシンボルとなるのは、門真市内最大・最高層<sup>※3</sup>を誇る地上41階・全648邸のタワーレジデンス。<br>広大なエリア内には、魅力的な広場や（仮称）門真市立生涯学習複合施設<sup>※4</sup>なども配置。多様な人々が訪れ、交流し、いつの日もたくさんの笑顔にあふれる街が、門真市の未来をリードしていきます。</p>
-      </div>
-    </div>
-    <div class="image img04">
-      <img src="./images/concept/img04.jpg" alt="">
-      <p class="annotation white">学びの輪完成予想CG</p>
-    </div>
-    <div class="texts">
-      <div class="inner">
-        <p class="text">新しいコミュニティを育む、文化と学びの交流拠点。</p>
-        <p class="lead">この街での暮らしにさらなる豊かさをもたらすのが、（仮称）門真市立生涯学習複合施設<sup>※4</sup>です。立体的な緑に包まれた建物には図書館と文化会館などを集約。洗練された文化と学びの交流拠点として、住む人と訪れる人の心地よいコミュニティを育んでいきます。</p>
-      </div>
-    </div>
-    <div class="image img03">
-      <img src="./images/concept/img03.jpg" alt="" class="pc">
-      <img src="./images/concept/img03-sp.jpg" alt="" class="tb">
-    </div>
-    <p class="caps">（仮称）門真市立生涯学習複合施設外観イメージ（株式会社遠藤克彦建築研究所提供）<br>※画像については実施設計中に詳細を検討していくため、実際のイメージとは異なります。<br>（仮称）門真市立生涯学習複合施設（事業主：門真市）は本物件敷地外の施設となります。</p>
-  </div>
-
-
-  <div class="btn">
-    <a href="./location01.html"><img src="./images/concept/btn.jpg" alt=""></a>
-  </div>
-
-
 
   <div class="annotation-area">
-  <p class="page-annotation js-scroll wrap clearfix">※1.官民一体駅前大規模複合開発とは、門真市幸福東土地区画整理事業[2025年度事業完了予定 出典：大阪府ホームページ(2023年9月時点)]のことであり、本物件販売対象はタワー棟、民間施設棟、多目的広場となります。なお、賑わいの輪、(仮称)門真市立生涯学習複合施設等は本物件のものではありません。あらかじめご了承ください。<br>※2. 出典：門真市ホームぺージ（門真市幸福町・垣内町地区まちづくり用地活用事業）提案概要書<br>※3. 1995年1月～2023年6月までに門真市内で新規供給された分譲マンションのうち、本プロジェクトの総戸数648戸は過去最大規模の戸数であり、41階建ては過去最高層となります。（有）MRC調べ（2023年8月現在）<br>※4. 2025年度完成予定 出典：門真市ホームぺージ（2023年9月現在）<br>※掲載の外観完成予想図は、大阪府門真市古川町付近よりから西方向を撮影した写真（2023年10月撮影）に計画段階の図面を基に描き起こした建物完成予想図をＣＧ合成・加工したもので、実際とは異なります。また、周辺環境・眺望は将来変わる場合があります。<br>※賑わいの輪・学びの輪完成予想CGは計画段階の図面を基に描き起こしたものに人物等をCG合成したもので、実際とは多少異なります。また、形状の細部および設備機器等については省略しております。外構・植栽計画、家具・調度品の形状・色等は今後変更される場合がありますので、あらかじめご了承ください。<br>※建物等の状況がわかりやすいよう、建物等を透視して描いています。<br>※一部敷地外（街路樹等）を合わせて着彩しています。また、周辺建物を概略ラインのみ表現しています。<br>※掲載の情報は2023年9月現在のものです。</p></div>
+  <p class="page-annotation js-scroll wrap clearfix">※1. 3駅3路線とは、都営浅草線・都営三田線「三田」駅、ゆりかもめ「芝浦ふ頭」駅、「日の出」駅のことです。<br>※2. JR山手線・京浜東北線「田町」駅よりJR山手線利用（JR京浜東北線快速利用）。<br>※3. JR山手線・京浜東北線「田町」駅よりJR山手線利用。<br>※掲載の距離表示については地図上の概測距離を、徒歩分数表示については80mを１分として算出し、端数を切り上げたものです。<br>※掲載の航空写真は港区南麻布3丁目付近上空から東方面を撮影（2023年12月）したものに現地部分の光などＣＧ合成・加工をしたものです。また、周辺環境は将来変わる場合があります。<br>※スカイラウンジ・フィットネスルームのご利用は有料となります。内容につきましては、変更になる場合があります。その他利用条件等、詳しくは係員にお尋ねください。</p></div>
 </main>
 
 <?php require(INCLUDES."footer.php"); ?>

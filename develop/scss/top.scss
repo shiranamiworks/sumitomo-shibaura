@@ -1,5 +1,28 @@
 @charset "utf-8";
 
+main {
+    color: #3e3a39;
+    font-family: "RyuminPro", serif;
+    line-height: 1;
+  }
+  sup {
+    font-size: 10px;
+    vertical-align: super;
+  }
+  sp {
+    display: none;
+  }
+  pc {
+    display: block;
+  }
+  .page-annotation {
+    font-family: "Noto Sans JP", sans-serif;
+  }
+  .main-visual {
+    position: relative;
+    border: none;
+  }
+
 /************* MV *************/
 .top-mv .container {
     margin: 0 auto 15px auto;
@@ -39,7 +62,30 @@
 .mv-access__list p+p {
     border-left: 1px solid #d1c7b6;
 }
+.top-mv{
+    background:#F1E9DC;
+}
 
+.top-mv__slide .slick-dots li {
+    width: 10px;
+    height: 10px;
+}
+
+.top-mv__slide .slick-dots li button {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    border-radius: 50%;
+    background-color: #707070;
+}
+
+.top-mv__slide .slick-dots li.slick-active button {
+    background-color: rgba(80, 50, 30, 1);
+}
+
+.top-mv__slide .slick-dots li button:before {
+    display: none;
+}
 @media screen and (max-width: 1400px) {
     .mv-access__main {
         font-size: 1.8vw;
@@ -218,6 +264,7 @@
 /************* CONTENTS *************/
 
 .contents-link {
+    position: relative;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -300,6 +347,16 @@
     border-style: solid;
     border-width: 5px 0 5px 10px;
     border-color: transparent transparent transparent #000000;
+}
+
+.contents-link .annotation.white {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    text-align: right;
+    font-size: 10px;
+    color:#fff;
+    text-shadow: 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000;
 }
 
 @media screen and (max-width: 1310px) {
