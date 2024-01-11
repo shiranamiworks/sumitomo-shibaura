@@ -13,13 +13,13 @@ $site_setting = array(
 $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 ?>
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="keywords" content="<?= $page_settings["keywords"] ?>シティタワー○○○,○○○ 新築分譲マンション,門真市 新築マンション,○○○,○○○駅,京阪本線,門真市,マンション,新築マンション,分譲マンション,住友不動産">
-<meta name="description" content="<?= $page_settings["description"] ?>京阪本線「○○○駅」まで徒歩4分。住友不動産の新築マンションが○○○に誕生。【すみふ○○○】門真市の新築分譲マンションなら住友不動産。">
+<meta name="keywords" content="<?= $page_settings["keywords"] ?>シティタワー○○○,○○○ 新築分譲マンション,芝浦 新築マンション,○○○,○○○駅,京阪本線,門真市,マンション,新築マンション,分譲マンション,住友不動産">
+<meta name="description" content="<?= $page_settings["description"] ?>JR「田町駅」まで徒歩10分。住友不動産の新築マンションが○○○に誕生。【すみふ○○○】芝浦の新築分譲マンションなら住友不動産。">
 <title><?= $page_settings["title"] ?>【公式】シティタワー○○○｜○○○の新築マンション｜住友不動産</title>
 <meta property="og:url" content="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
 <meta property="og:type" content="website" />
 <meta property="og:title" content="<?= $page_settings["title"] ?>【公式】シティタワー○○○｜○○○の新築マンション｜住友不動産">
-<meta property="og:description" content="<?= $page_settings["description"] ?>京阪本線「○○○駅」まで徒歩4分。住友不動産の新築マンションが○○○に誕生。【すみふ○○○】門真市の新築分譲マンションなら住友不動産。">
+<meta property="og:description" content="<?= $page_settings["description"] ?>京阪本線「○○○駅」まで徒歩4分。住友不動産の新築マンションが○○○に誕生。【すみふ○○○】芝浦の新築分譲マンションなら住友不動産。">
 <meta property="og:site_name" content="<?= $page_settings["title"] ?>【公式】シティタワー○○○｜○○○の新築マンション｜住友不動産">
 <meta property="og:image" content="<?= $page_settings["directory_pos"] ?>images/top/ogp.jpg" />
 

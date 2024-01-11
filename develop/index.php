@@ -25,6 +25,9 @@
   <div class="top-mv__slide sp tb">
     <figure><img src="./images/top/mv01-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">外観完成予想図</p></figure>
     <figure><img src="./images/top/mv02-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">航空写真</p></figure>
+  </div>
+  <div class="sp tb">
+    <figure><img src="./images/top/sokyu-sp.jpg" alt="" class="w_100 sp tb"></figure>
   </div><!--//top-mv -->
   
   <!-- バナースライド -->

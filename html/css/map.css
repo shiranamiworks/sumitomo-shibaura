@@ -589,6 +589,7 @@ html, body{
   #submaincontainer .zip {
     font-size: 22px;
     margin: 40px auto;
+    line-height: 1.6;
   }
 
   #submaincontainer .zip span {
