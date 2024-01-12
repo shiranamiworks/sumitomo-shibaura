@@ -122,16 +122,22 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
           <li>
             <p><span class="f-en">STRUCTURE・SAFETY</span><br>構造・防災</p>
           </li>
-          <li class="has-child">
+          <li>
+            <p><span class="f-en">LOCATION</span><br>ロケーション</p>
+          </li>
+          <!-- <li class="has-child">
             <p class="active"><span class="f-en">LOCATION</span><br>ロケーション</p>
             <div class="sub-menu">
               <a href="<?= $page_settings["directory_pos"]  ?>location01.html">煌びやかに、上質な日常を楽しむ</a>
               <a href="<?= $page_settings["directory_pos"]  ?>location02.html">暮らしを満たし、心を潤す住環境</a>
             </div>
-          </li>
+          </li> -->
           <li>
-            <a href="<?= $page_settings["directory_pos"]  ?>access.html"><span class="f-en">ACCESS</span><br>アクセス</a>
+          <p><span class="f-en">ACCESS</span><br>アクセス</p>
           </li>
+          <!-- <li>
+            <a href="<?= $page_settings["directory_pos"]  ?>access.html"><span class="f-en">ACCESS</span><br>アクセス</a>
+          </li> -->
         </ul>
       </nav>
       <div class="header-menu-right">
@@ -164,8 +170,10 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         <li>間取り</li>
         <li>設備・仕様</li>
         <li>構造・防災</li>
-        <li><a href="<?= $page_settings["directory_pos"]  ?>location01.html">ロケーション</a></li>
-        <li><a href="<?= $page_settings["directory_pos"]  ?>access.html">アクセス</a></li>
+        <li>ロケーション</li>
+        <li>アクセス</li>
+        <!-- <li><a href="<?= $page_settings["directory_pos"]  ?>location01.html">ロケーション</a></li>
+        <li><a href="<?= $page_settings["directory_pos"]  ?>access.html">アクセス</a></li> -->
         <li><a href="<?= $page_settings["directory_pos"]  ?>map.html" target="_blank">現地案内図</a></li>
         <li><a href="javascript:outline();">物件概要</a></li>
         <li><p href="javascript:blog();">マンション情報ブログ</p></li>
