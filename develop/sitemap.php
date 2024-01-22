@@ -49,7 +49,7 @@
 	<li class="blog">マンション情報ブログ</li>
 	<li class="faq"><a href="/shuto//faq.cgi" target="_blank">FAQ</a></li>
 	<li class="sitemap"><a href="sitemap.html">サイトマップ</a></li>
-	<script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=&LINK=footer"></script>
+	<script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=tamachi&LINK=footer"></script>
 	</ul>
     </div>
   </section>

@@ -1,8 +1,8 @@
 <footer class="footer">
   <div class="entry">
     <div class="container">
-    <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=&LINK=entry"></script>
-    <script type="text/javascript" src="/bukken_manage/bukken_manage_link.cgi?AREA_CD=shuto&PROP_CD="></script>
+    <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=tamachi&LINK=entry"></script>
+    <script type="text/javascript" src="/bukken_manage/bukken_manage_link.cgi?AREA_CD=shuto&PROP_CD=tamachi"></script>
       <div class="entry-tel">
         <p>お問い合わせは住友不動産<br class="sp">「総合マンションギャラリー新橋館」</p>
         <a href="<?= $site_setting["tel_link"]?>" class="entry-tel__num"><img src="./images/common/icn_entry-tel.png" alt=""><span class="f-en">0120-000-000</span></a><br>
@@ -31,9 +31,9 @@
         <li class="outline"><a href="javascript:outline()">物件概要</a></li>
         <!-- <li class="blog"><a href="javascript:blog();">マンション情報ブログ</a></li> -->
         <li class="blog">マンション情報ブログ</li>
-        <li class="faq"><a href="/shuto//faq.cgi" target="_blank">FAQ</a></li>
+        <li class="faq"><a href="/shuto/tamachi/faq.cgi" target="_blank">FAQ</a></li>
         <li class="sitemap"><a href="<?= $page_settings["directory_pos"]  ?>sitemap.html">サイトマップ</a></li>
-        <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=&LINK=footer"></script>
+        <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=tamachi&LINK=footer"></script>
       </ul>
     </div>
   </nav><!-- footer-menu -->
@@ -50,7 +50,7 @@
 
       <!-- おススメ物件 -->
       <!-- <p class="footer-recommend__ttl">おすすめ物件</p>
-      <script type="text/javascript" src="/bukken_manage/bukken_manage_recommend.cgi?AREA_CD=shuto&PROP_CD="></script> -->
+      <script type="text/javascript" src="/bukken_manage/bukken_manage_recommend.cgi?AREA_CD=shuto&PROP_CD=tamachi"></script> -->
 			<!-- //おススメ物件 -->
     </div>
   </div>
@@ -107,7 +107,7 @@
   </div>
   <div class="footer-btn">
     <div class="float-btn">
-      <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=&LINK=float"></script>
+      <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=tamachi&LINK=float"></script>
     </div>
     <div class="fixed-btn">
       <a href="<?= $site_setting["tel_link"] ?>">
@@ -116,7 +116,7 @@
       <a href="<?= $page_settings["directory_pos"]  ?>map.html" target="_blank">
         <p><img src="<?= $page_settings["directory_pos"]  ?>images/common/icn_map.png" alt="現地案内図"><br>現地案内図</p>
       </a>
-      <a href="/shuto//catalog.cgi" target="_blank" class="fixed-btn__mail">
+      <a href="/shuto/tamachi/catalog.cgi" target="_blank" class="fixed-btn__mail">
         <p><img src="./images/common/icn_mail.png" alt="資料請求"><br>資料請求</p>
       </a>
       <a href="javascript:openfraijo();" class="fixed-btn__btn002">
@@ -135,7 +135,7 @@
     </div><!-- fixed-btn -->
 
     <div id="spfraijo" class="sp">
-    <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=&LINK=sp-footer"></script>
+    <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=tamachi&LINK=sp-footer"></script>
 		</div>
   </div>
 </footer>
@@ -148,7 +148,7 @@
 
 
 <!-- アクセス履歴タグ挿入 begin -->
-<img src="/bukken_access.cgi?AREA_CD=shuto&PROP_CD=" width="1" height="1" id="adtag">
+<img src="/bukken_access.cgi?AREA_CD=shuto&PROP_CD=tamachi" width="1" height="1" id="adtag">
 <!-- アクセス履歴タグ挿入 end -->
 
 <!-- Google Tag Manager begin -->

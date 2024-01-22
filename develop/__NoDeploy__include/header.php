@@ -81,7 +81,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
       </a>
     </h1><!-- header-logo -->
     <div class="header-right d-flex">
-               <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=&LINK=header"></script>
+               <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=tamachi&LINK=header"></script>
                     <div id="sp-menu-btn" class="hamburger">
                         <p>MENU</p>
                         <div class="menu-trigger">
@@ -142,12 +142,12 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
       </nav>
       <div class="header-menu-right">
         <ul class="header-menu-btn">
-          <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=&LINK=header-menu"></script>
+          <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=tamachi&LINK=header-menu"></script>
         </ul>
         <div class="header-menu-other">
           <ul>
             <li><a href="map.html" target="_blank">現地案内図</a></li>
-            <li><a href="/shuto//faq.cgi" target="_blank">FAQ</a></li>
+            <li><a href="/shuto/tamachi/faq.cgi" target="_blank">FAQ</a></li>
             <li><a href="javascript:outline();">物件概要</a></li>
             <li><p>マンション情報ブログ</p></li>
           </ul>
@@ -177,8 +177,8 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         <li><a href="<?= $page_settings["directory_pos"]  ?>map.html" target="_blank">現地案内図</a></li>
         <li><a href="javascript:outline();">物件概要</a></li>
         <li><p href="javascript:blog();">マンション情報ブログ</p></li>
-        <li><a href="/shuto//faq.cgi" target="_blank">FAQ</a></li>
-        <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=&LINK=sp-menu"></script>
+        <li><a href="/shuto/tamachi/faq.cgi" target="_blank">FAQ</a></li>
+        <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=tamachi&LINK=sp-menu"></script>
       </ul>
     </nav>
     <div class="sp-menu-sns d-flex justify-content-center align-items-center">

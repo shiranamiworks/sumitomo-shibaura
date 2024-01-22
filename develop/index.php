@@ -34,9 +34,9 @@
   <div class="top-banner">
     <div class="container">
       <!-- バナー上 -->
-        <script type="text/javascript" src="/bukken_manage/bukken_manage_banner.cgi?AREA_CD=shuto&PROP_CD=/&BANNER=first"></script>
+        <script type="text/javascript" src="/bukken_manage/bukken_manage_banner.cgi?AREA_CD=shuto&PROP_CD=tamachi&BANNER=first"></script>
       <!-- バナー下 -->
-        <script type="text/javascript" src="/bukken_manage/bukken_manage_banner.cgi?AREA_CD=shuto&PROP_CD=/&BANNER=second"></script>
+        <script type="text/javascript" src="/bukken_manage/bukken_manage_banner.cgi?AREA_CD=shuto&PROP_CD=tamachi&BANNER=second"></script>
     </div>
   </div><!-- / バナースライド -->
 
