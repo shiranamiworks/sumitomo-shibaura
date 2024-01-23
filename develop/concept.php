@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティタワー〇〇｜芝浦 新築分譲マンション｜トップ</a></li>
+      <li><a href="./index.html">シティタワー東京田町｜田町 マンション｜トップ</a></li>
       <li><p>コンセプト</p></li>
     </ul>
   </div>
@@ -29,14 +29,14 @@
 
   <header class="main-visual clearfix">
     <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/concept/mv.jpg" alt=""><p class="annotation white">航空写真</p></div>
+   <div class="image"><img src="./images/concept/mv.jpg" alt="" class="pc"><img src="./images/concept/mv-sp.jpg" alt="" class="sp tb"><p class="annotation white">航空写真</p></div>
   </header><!-- main-visual -->
 
   
   <section class="intro sections clearfix">
     <div class="inner">
       <p class="title">港区に誇る、<br class="sp">憧憬のタワー</p>
-      <p class="text">世界の国々とつながる大使館が点在し、<br class="pc">企業の拠点が集積する港区。<br>JR山手線・京浜東北線「田町」駅（約750m／徒歩10分）をはじめ、<br class="pc">その他3駅3路線<sup>※1</sup>利用可能で「東京」駅へ9分（7分）<sup>※2</sup>、「品川」駅へ4分（4分）<sup>※3</sup>と<br class="pc">優れた利便性を備えたロケーションに生まれる<br class="pc">地上34階建・免震タワーレジデンス「シティタワー◯◯ 」。<br>街に際立つ洗練されたデザインの景観と迎賓のエントランス、<br class="pc">スカイラウンジ、フィットネスルーム、テレワークラウンジなどの共用施設。<br>これらを享受する快適な住み心地は<br class="pc">多くの人々の憧れとなり、<br class="pc">また一段と幸福を感じていく住まいとなっていく。</p>
+      <p class="text">世界の国々とつながる大使館が点在し、<br class="pc">企業の拠点が集積する港区。<br>JR山手線・京浜東北線「田町」駅（約750m／徒歩10分）をはじめ、<br class="pc">その他3駅3路線<sup>※1</sup>利用可能で「東京」駅へ9分（7分）<sup>※2</sup>、「品川」駅へ4分（4分）<sup>※3</sup>と<br class="pc">優れた利便性を備えたロケーションに生まれる<br class="pc">地上34階建・免震タワーレジデンス「シティタワー東京田町 」。<br>街に際立つ洗練されたデザインの景観と迎賓のエントランス、<br class="pc">スカイラウンジ、フィットネスルーム、テレワークラウンジなどの共用施設。<br>これらを享受する快適な住み心地は<br class="pc">多くの人々の憧れとなり、<br class="pc">また一段と幸福を感じていく住まいとなっていく。</p>
       </div>
   </section><!-- intro -->
 

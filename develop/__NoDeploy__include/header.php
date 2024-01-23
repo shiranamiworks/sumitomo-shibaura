@@ -5,22 +5,22 @@
 <?php
 $site_setting = array(
   "area" => "shuto",
-  "prop" => "",
-  "tel_link" => "tel:0120330648",
+  "prop" => "tamachi",
+  "tel_link" => "tel:0120366433",
   "meta_link" => "https://www.sumitomo-rd-mansion.jp/gallery/",
   "requested_only" => "#requested_only",
 );
 $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 ?>
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="keywords" content="<?= $page_settings["keywords"] ?>シティタワー○○○,○○○ 新築分譲マンション,芝浦 新築マンション,○○○,○○○駅,京阪本線,門真市,マンション,新築マンション,分譲マンション,住友不動産">
-<meta name="description" content="<?= $page_settings["description"] ?>JR「田町駅」まで徒歩10分。住友不動産の新築マンションが○○○に誕生。【すみふ○○○】芝浦の新築分譲マンションなら住友不動産。">
-<title><?= $page_settings["title"] ?>【公式】シティタワー○○○｜○○○の新築マンション｜住友不動産</title>
+<meta name="keywords" content="<?= $page_settings["keywords"] ?>シティタワー東京田町,田町 マンション,田町 新築マンション,田町,田町,JR山手線,東京都港区,マンション,新築マンション,分譲マンション,住友不動産">
+<meta name="description" content="<?= $page_settings["description"] ?>JR山手線・JR京浜東北線「田町」から徒歩10分。住友不動産の新築マンションが田町に誕生。【すみふ　田町】東京都港区のマンションなら住友不動産。">
+<title><?= $page_settings["title"] ?>【公式】シティタワー東京田町｜田町の新築マンション｜住友不動産</title>
 <meta property="og:url" content="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
 <meta property="og:type" content="website" />
-<meta property="og:title" content="<?= $page_settings["title"] ?>【公式】シティタワー○○○｜○○○の新築マンション｜住友不動産">
-<meta property="og:description" content="<?= $page_settings["description"] ?>京阪本線「○○○駅」まで徒歩4分。住友不動産の新築マンションが○○○に誕生。【すみふ○○○】芝浦の新築分譲マンションなら住友不動産。">
-<meta property="og:site_name" content="<?= $page_settings["title"] ?>【公式】シティタワー○○○｜○○○の新築マンション｜住友不動産">
+<meta property="og:title" content="<?= $page_settings["title"] ?>【公式】シティタワー東京田町｜田町の新築マンション｜住友不動産">
+<meta property="og:description" content="<?= $page_settings["description"] ?>JR山手線・JR京浜東北線「田町」から徒歩10分。住友不動産の新築マンションが田町に誕生。【すみふ　田町】東京都港区のマンションなら住友不動産。">
+<meta property="og:site_name" content="<?= $page_settings["title"] ?>【公式】シティタワー東京田町｜田町の新築マンション｜住友不動産">
 <meta property="og:image" content="<?= $page_settings["directory_pos"] ?>images/top/ogp.jpg" />
 
 <link rel="canonical" href="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
@@ -77,7 +77,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
     <h1 class="header-logo">
       <a href="index.html">
         <figure><img src="<?= $page_settings["directory_pos"]  ?>images/common/logo-pc.png" alt=""></figure>
-        <p>○○○駅徒歩4分｜シティタワー○○○｜門真市 新築マンション｜<?= $page_settings["logo_text"]  ?>すみふ○○○｜住友不動産</p>
+        <p>田町駅徒歩10分｜シティタワー東京田町｜田町 新築マンション｜<?= $page_settings["logo_text"]  ?>すみふ 田町｜住友不動産</p>
       </a>
     </h1><!-- header-logo -->
     <div class="header-right d-flex">

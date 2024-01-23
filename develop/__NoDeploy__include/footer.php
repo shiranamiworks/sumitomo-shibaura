@@ -5,8 +5,8 @@
     <script type="text/javascript" src="/bukken_manage/bukken_manage_link.cgi?AREA_CD=shuto&PROP_CD=tamachi"></script>
       <div class="entry-tel">
         <p>お問い合わせは住友不動産<br class="sp">「総合マンションギャラリー新橋館」</p>
-        <a href="<?= $site_setting["tel_link"]?>" class="entry-tel__num"><img src="./images/common/icn_entry-tel.png" alt=""><span class="f-en">0120-000-000</span></a><br>
-        <a href="mailto:ct-@j.sumitomo-rd.co.jp" class="disabled">ct-@j.sumitomo-rd.co.jp</a>
+        <a href="<?= $site_setting["tel_link"]?>" class="entry-tel__num"><img src="./images/common/icn_entry-tel.png" alt=""><span class="f-en">0120-366-433</span></a><br>
+        <a href="mailto:ct-tamachi@j.sumitomo-rd.co.jp" class="disabled">ct-tamachi@j.sumitomo-rd.co.jp</a>
       </div>
       <p class="entry-info">営業時間／平日 11：00～19：00／土・日・祝日 10：00～18：00<br class="sp">（水曜定休、年末年始は休業）</p>
     </div>
@@ -41,11 +41,15 @@
   <div class="footer-recommend">
     <div class="container">
       <ul class="footer-recommend__menu f-min">
-        <li>田町駅徒歩10分・三田駅徒歩10分・芝浦ふ頭駅徒歩10分・日の出駅徒歩12分</li>
-        <li>シティタワー◯◯</li>
-        <li>芝浦 新築分譲マンション</li>
-        <li>すみふ田町</li>
+        <li>田町 マンション</li>
+        <li>田町 新築マンション</li>
+        <li>シティタワー東京田町</li>
+        <li>東京都港区</li>
+        <li>JR山手線</li>
+        <li>田町</li>
+        <li>新築分譲マンション</li>
         <li>住友不動産</li>
+        <li>すみふ 田町</li>
       </ul>
 
       <!-- おススメ物件 -->
