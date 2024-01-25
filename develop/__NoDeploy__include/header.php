@@ -13,13 +13,13 @@ $site_setting = array(
 $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 ?>
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="keywords" content="<?= $page_settings["keywords"] ?>シティタワー東京田町,田町 マンション,田町 新築マンション,田町,田町,JR山手線,東京都港区,マンション,新築マンション,分譲マンション,住友不動産">
-<meta name="description" content="<?= $page_settings["description"] ?>JR山手線・JR京浜東北線「田町」から徒歩10分。住友不動産の新築マンションが田町に誕生。【すみふ　田町】東京都港区のマンションなら住友不動産。">
+<meta name="keywords" content="<?= $page_settings["keywords"] ?>シティタワー東京田町,田町 マンション,田町 新築マンション,田町,田町駅,JR山手線,東京都港区,マンション,新築マンション,分譲マンション,住友不動産">
+<meta name="description" content="<?= $page_settings["description"] ?>JR山手線・JR京浜東北線「田町駅」から徒歩10分。住友不動産の新築マンションが田町に誕生。【すみふ　田町】東京都港区のマンションなら住友不動産。">
 <title><?= $page_settings["title"] ?>【公式】シティタワー東京田町｜田町の新築マンション｜住友不動産</title>
 <meta property="og:url" content="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
 <meta property="og:type" content="website" />
 <meta property="og:title" content="<?= $page_settings["title"] ?>【公式】シティタワー東京田町｜田町の新築マンション｜住友不動産">
-<meta property="og:description" content="<?= $page_settings["description"] ?>JR山手線・JR京浜東北線「田町」から徒歩10分。住友不動産の新築マンションが田町に誕生。【すみふ　田町】東京都港区のマンションなら住友不動産。">
+<meta property="og:description" content="<?= $page_settings["description"] ?>JR山手線・JR京浜東北線「田町駅」から徒歩10分。住友不動産の新築マンションが田町に誕生。【すみふ　田町】東京都港区のマンションなら住友不動産。">
 <meta property="og:site_name" content="<?= $page_settings["title"] ?>【公式】シティタワー東京田町｜田町の新築マンション｜住友不動産">
 <meta property="og:image" content="<?= $page_settings["directory_pos"] ?>images/top/ogp.jpg" />
 

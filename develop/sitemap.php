@@ -21,7 +21,7 @@
   <h2 class="ttl">サイトマップ</h2>
   <div class="sitemap_area">
   <ul>
-	<li class="top"><a href="/shuto//">シティタワー東京田町 トップ</a></li>
+	<li class="top"><a href="/shuto/tamachi/">シティタワー東京田町 トップ</a></li>
 	<li class="concept"><a href="concept.html">コンセプト</a></li>
 	<!--li class="design"><a href="design.html">デザイン</a></li-->
 	<li class="design">デザイン</li>
@@ -47,7 +47,7 @@
 	<li class="outline"><a href="javascript:outline()">物件概要</a></li>
 	<!--li class="blog"><a href="javascript:blog();">マンション情報ブログ</a></li-->
 	<li class="blog">マンション情報ブログ</li>
-	<li class="faq"><a href="/shuto//faq.cgi" target="_blank">FAQ</a></li>
+	<li class="faq"><a href="/shuto/tamachi/faq.cgi" target="_blank">FAQ</a></li>
 	<li class="sitemap"><a href="sitemap.html">サイトマップ</a></li>
 	<script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=tamachi&LINK=footer"></script>
 	</ul>
