@@ -62,6 +62,16 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 <script type="text/javascript" src="<?= $page_settings["directory_pos"]  ?>js/leaflet.js"></script>
 <script type="text/javascript" src="<?= $page_settings["directory_pos"]  ?>js/imgViewer2.js"></script>
 <script type="text/javascript" src="<?= $page_settings["directory_pos"]  ?>js/script.js"></script>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'ada0zfb',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
 <?php foreach($page_settings["add_script"] as $key => $value) { ?>
 <script src="<?= $page_settings["directory_pos"]  ?><?= $value ?>"></script>
 <?php }; ?>
@@ -122,18 +132,18 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
           <li>
             <p><span class="f-en">STRUCTURE・SAFETY</span><br>構造・防災</p>
           </li>
-          <li>
+          <!-- <li>
             <p><span class="f-en">LOCATION</span><br>ロケーション</p>
-          </li>
-          <!-- <li class="has-child">
+          </li> -->
+          <li class="has-child">
             <p class="active"><span class="f-en">LOCATION</span><br>ロケーション</p>
             <div class="sub-menu">
               <a href="<?= $page_settings["directory_pos"]  ?>location01.html">煌びやかに、上質な日常を楽しむ</a>
               <a href="<?= $page_settings["directory_pos"]  ?>location02.html">暮らしを満たし、心を潤す住環境</a>
             </div>
-          </li> -->
+          </li>
           <li>
-          <p><span class="f-en">ACCESS</span><br>アクセス</p>
+          <p><a href="<?= $page_settings["directory_pos"]  ?>access.html"><span class="f-en">ACCESS</span><br>アクセス</a></p>
           </li>
           <!-- <li>
             <a href="<?= $page_settings["directory_pos"]  ?>access.html"><span class="f-en">ACCESS</span><br>アクセス</a>
@@ -170,10 +180,10 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         <li>間取り</li>
         <li>設備・仕様</li>
         <li>構造・防災</li>
-        <li>ロケーション</li>
-        <li>アクセス</li>
-        <!-- <li><a href="<?= $page_settings["directory_pos"]  ?>location01.html">ロケーション</a></li>
-        <li><a href="<?= $page_settings["directory_pos"]  ?>access.html">アクセス</a></li> -->
+        <!-- <li>ロケーション</li>
+        <li>アクセス</li>-->
+        <li><a href="<?= $page_settings["directory_pos"]  ?>location01.html">ロケーション</a></li>
+        <li><a href="<?= $page_settings["directory_pos"]  ?>access.html">アクセス</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>map.html" target="_blank">現地案内図</a></li>
         <li><a href="javascript:outline();">物件概要</a></li>
         <li><p href="javascript:blog();">マンション情報ブログ</p></li>

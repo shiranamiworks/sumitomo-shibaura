@@ -38,11 +38,11 @@
 	<!--li class="structure"><span>構造・防災
 	（ <a href="structure_01.html">基本構造</a> ／ <a href="structure_02.html">セキュリティ</a> ／ <a href="structure_03.html">防災対策</a> ）</span></li-->
 	<li class="structure">構造・防災</li>
-	<li class="location">ロケーション</li>
-	<li class="access">アクセス</li>
-	<!-- <li class="location"><span>ロケーション<br />
+	<!-- <li class="location">ロケーション</li>
+	<li class="access">アクセス</li>-->
+	<li class="location"><span>ロケーション<br />
 	（ <a href="location01.html">煌びやかに、上質な日常を楽しむ</a> ／ <a href="location02.html">暮らしを満たし、心を潤す住環境</a> ）</span></li>
-	<li class="access"><a href="access.html">アクセス</a></li> -->
+	<li class="access"><a href="access.html">アクセス</a></li>
 	<li class="map"><a href="map.html" target="_blank">現地案内図</a></li>
 	<li class="outline"><a href="javascript:outline()">物件概要</a></li>
 	<!--li class="blog"><a href="javascript:blog();">マンション情報ブログ</a></li-->

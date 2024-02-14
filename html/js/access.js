@@ -15,6 +15,9 @@ $(function () {
           if ($(this).hasClass("right-start")) {
             pos = w / 2 - (w / 5) * -1;
           }
+          if ($(this).hasClass("right-start01")) {
+            pos = w / 2 - (w / 5) * 0.3;
+          }
           $(this).animate({ scrollLeft: pos }, 30);
         });
       }

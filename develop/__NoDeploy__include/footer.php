@@ -23,10 +23,10 @@
         <li class="roomplan">間取り</li>
         <li class="equipment">設備・仕様</li>
         <li class="structure">構造・防災</li>
-        <li class="location">ロケーション</li>
-        <li class="access">アクセス</li>
-        <!-- <li class="location"><a href="<?= $page_settings["directory_pos"]  ?>location01.html">ロケーション</a></li>
-        <li class="access"><a href="<?= $page_settings["directory_pos"]  ?>access.html">アクセス</a></li> -->
+        <!-- <li class="location">ロケーション</li>
+        <li class="access">アクセス</li> -->
+        <li class="location"><a href="<?= $page_settings["directory_pos"]  ?>location01.html">ロケーション</a></li>
+        <li class="access"><a href="<?= $page_settings["directory_pos"]  ?>access.html">アクセス</a></li>
         <li class="start map"><a href="<?= $page_settings["directory_pos"]  ?>map.html" target="_blank">現地案内図</a></li>
         <li class="outline"><a href="javascript:outline()">物件概要</a></li>
         <!-- <li class="blog"><a href="javascript:blog();">マンション情報ブログ</a></li> -->
