@@ -52,7 +52,8 @@
       <div class="distance">
         <p class="text">●現地から徒歩10分のJR山手線「田町」駅より</p>
         <div class="image">
-          <img src="./images/access/distance01.svg" alt="">
+          <img src="./images/access/distance01.svg" alt="" class="pc">
+          <img src="./images/access/distance01-sp.svg" alt="" class="sp">
         </div>
       </div><!-- distance -->
     </div><!-- inner -->
@@ -70,7 +71,7 @@
       <ul class="column02">
         <li>
           <div class="image sp">
-          <img src="./images/access/airport03.svg" alt="">
+          <img src="./images/access/airport03-sp.svg" alt="">
           </div>
           <div class="image">
           <img src="./images/access/airport02.jpg" alt="">
@@ -218,11 +219,13 @@
         </li>
       </ul>
       <div class="image">
-      <img src="./images/access/taxi06.jpg" alt="">
+      <img src="./images/access/taxi06.jpg" alt="" class="pc">
+      <img src="./images/access/taxi06-sp.jpg" alt="" class="sp">
       <p class="annotation white">image photo</p>
       </div>
       <div class="image txt-img">
-      <img src="./images/access/taxi-txt05.svg" alt="">
+      <img src="./images/access/taxi-txt05.svg" alt="" class="pc">
+      <img src="./images/access/taxi-txt05-sp.svg" alt="" class="sp">
       </div>
     </div>
   </section>
