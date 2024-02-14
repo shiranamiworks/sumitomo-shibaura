@@ -70,6 +70,7 @@
       <p class="tit">日本の玄関口として重要な役割を担う「羽田空港」</p>
       <ul class="column02">
         <li>
+          <p class="text sp">●現地から徒歩10分のJR山手線「田町」駅より</p>
           <div class="image sp">
           <img src="./images/access/airport03-sp.svg" alt="">
           </div>
