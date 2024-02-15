@@ -93,6 +93,11 @@
     position: relative;
     border: none;
     margin-bottom: 100px;
+    .caps {
+      text-align: right;
+      margin: 10px 10px 0 0;
+      font-size: 11px;
+    }
   }
   .sections {
     .tit-img {

@@ -94,6 +94,11 @@
   border: none;
   margin-bottom: 100px;
 }
+.location02 .main-visual .caps {
+  text-align: right;
+  margin: 10px 10px 0 0;
+  font-size: 11px;
+}
 .location02 .sections .tit-img {
   max-width: 500px;
   margin: 0 auto 40px;
