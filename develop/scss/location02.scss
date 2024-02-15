@@ -6,12 +6,6 @@
 @import "inc/functions.scss";
 @import "inc/param.scss";
 
-.garamond {
-  font-family: "adobe-garamond-pro", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
 .breadcrumb {
   padding: 20px 2%;
   border-top: 1px solid #f1e9dc;
@@ -50,6 +44,11 @@
   width: 84%;
   max-width: 1200px;
 }
+.garamond {
+  font-family: "adobe-garamond-pro", serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 .location02 {
   main img {
@@ -78,9 +77,9 @@
     font-family: "RyuminPro", serif;
     line-height: 1;
     background: url(../images/common/bg.png);
-    background-size: contain;
-    background-position: right;
-    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
   }
   sup {
     font-size: 10px;
@@ -93,11 +92,13 @@
   .main-visual {
     position: relative;
     border: none;
-    .annotation {
-      bottom: 30%;
-    }
+    margin-bottom: 100px;
   }
   .sections {
+    .tit-img {
+      max-width: 500px;
+      margin: 0 auto 40px;
+    }
     .inner {
       margin: 0 auto;
       width: 84%;
@@ -143,40 +144,113 @@
   } //sections
   .intro {
     text-align: center;
-    margin-top: -160px;
     position: relative;
     z-index: 1;
-    .en {
-      font-size: 38px;
-      letter-spacing: 0.2em;
-      margin-bottom: 50px;
-      color: #2c4a5f;
+    .inner {
+      max-width: 1200px;
     }
     .tit {
       font-size: 34px;
       line-height: 2;
       letter-spacing: 0.12em;
       margin-bottom: 30px;
-      color: #002d43;
     }
     .lead {
       font-size: 18px;
       line-height: 1.8;
       margin-bottom: 60px;
-      color: #002d43;
     }
-    .text {
-      font-size: 28px;
-      line-height: 2;
-      letter-spacing: 0.12em;
-      color: #002d43;
-      margin: 40px auto;
+    .images {
+      position: relative;
     }
-    .lead01 {
+    .img02 {
+      max-width: 480px;
+      width: 40%;
+      position: absolute;
+      bottom: 7%;
+      right: -3%;
+      .annotation {
+        bottom: 8%;
+      }
+    }
+    .bg {
+      background: #fff;
+      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+      padding: 10px;
+      box-sizing: border-box;
+      margin: 40px auto 100px;
+    }
+    .box {
+      border: 1px solid #231815;
+      padding: 60px 30px;
+      box-sizing: border-box;
+    }
+    .lists {
+      text-align: left;
+      margin-bottom: 40px;
+    }
+    .lists li {
+      display: inline-block;
+      vertical-align: top;
+      width: 52%;
+      margin-right: 2%;
+    }
+    .lists li:last-child {
+      width: 44%;
+      margin-right: auto;
+    }
+    .list02 li {
+      width: 44%;
+      margin-right: 2%;
+    }
+    .list02 li:last-child {
+      width: 52%;
+      margin-right: auto;
+    }
+    .list03 li {
+      width: 58%;
+      margin-right: 2%;
+    }
+    .list03 li:last-child {
+      width: 22%;
+      margin-right: auto;
+    }
+    .list04 {
+      margin: auto;
+    }
+    .list04 li {
+      width: 41%;
+      margin-right: 2%;
+    }
+    .list04 li:last-child {
+      width: 56%;
+      margin-right: auto;
+    }
+    .name {
+      font-size: 32px;
+      color: #bf9d6d;
+      padding-bottom: 4px;
+      margin-bottom: 10px;
+      border-bottom: 1px solid #333;
+    }
+    .purpose {
       font-size: 16px;
-      line-height: 2.2;
-      margin-bottom: 60px;
-      color: #3e3a39;
+      line-height: 1.5;
+      margin-bottom: 6px;
+    }
+    .schedule {
+      font-size: 22px;
+      line-height: 1.5;
+      margin-bottom: 6px;
+    }
+    .info {
+      font-size: 16px;
+      line-height: 1.8;
+      margin-bottom: 10px;
+    }
+    .mini {
+      font-size: 12px;
+      line-height: 1.5;
     }
   } //intro
   .shops {
@@ -702,7 +776,8 @@
       background: none;
     }
     .main-visual {
-      padding-bottom: 100px;
+      padding-bottom: 40px;
+      margin-bottom: 40px;
     }
     .sections {
       .column02 {
@@ -729,10 +804,6 @@
     .intro {
       text-align: left;
       margin-bottom: 40px;
-      .en {
-        font-size: 36px;
-        margin-bottom: 20px;
-      }
       .tit {
         font-size: 22px;
         margin-bottom: 20px;
