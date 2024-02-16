@@ -48,96 +48,246 @@
       </div>-->
       <p class="tit">再開発により得られた美と利便性。</p>
       <p class="lead">街の顔が一新され、生活利便性が向上。<br>魅力的な商業施設と緑豊かな公園、癒しをくれる運河がこの街での日常を心地良さへといざないます。</p>
-      <div class="images">
-        <div class="image img01">
-          <img src="./images/location02/intro01.png">
-          <p class="annotation">■立地概念図</p>
-        </div>
-        <div class="image img02">
-          <img src="./images/location02/intro02.png">
-          <p class="annotation white">芝浦公園（約340m/徒歩5分）</p>
-        </div>
-      </div>
-      <div class="bg">
-        <div class="box">
-          <ul class="lists list01 clearfix">
-            <li>
-              <p class="name">高輪ゲートウェイシティ</p>
-              <p class="purpose">（主要用途：オフィス・商業・子育て支援施設・住宅・ホール・ホテル等）</p>
-              <p class="schedule">■2025年3月開業予定</p>
-              <p class="info">2020年に誕生した「高輪ゲートウェイ」駅を起点としたまちづくりが進められています。南北に広がる敷地を４つに区分けし、各街区の建物を多数の島々が連なる日本列島に見立てた街全体のランドスケープ。そして各建物の低層部に豊かな緑を連ね、個性を持ちながらも建物同士がつながる一体感の創出など、100年先を見据えた「Global Gateway」にふさわしいまちづくりを目指しています。</p>
-              <p class="mini">※出典：東日本旅客鉄道株式会社HP（2023年12月現在）</p>
-            </li>
-            <li>
-              <div class="image">
-                <img src="./images/location02/list01.jpg">
-                <p class="annotation white">提供画像（完成予想図）</p>
-              </div>
-            </li>
-          </ul>
-          <ul class="lists list02 clearfix">
-            <li>
-              <div class="image">
-                <img src="./images/location02/list02.jpg">
-                <p class="annotation white">提供画像（完成予想図）</p>
-              </div>
-            </li>
-            <li>
-              <p class="name">芝浦一丁目計画</p>
-              <p class="purpose">（主要用途：事務所・商業施設・ホテル・駐車場等）</p>
-              <p class="schedule">■都市計画決定時期：2018年3月<br>■竣工予定時期：S棟2025年2月、全体2030年度</p>
-              <p class="info">浜松町ビルディングの建替事業として、新しい都心のランドマークとなるプロジェクトです。S棟の高層部に日本初進出のホテルブランド、N棟の高層部に住宅を計画しており、中層部はオフィススペースとして活用され、ビジネスエリアとしての機能を果たします。また低層部では飲食店を中心に構成され、地域に住まう方や訪れる人々に寛ぎの場を提供します。</p>
-              <p class="mini">※出典：東京都都市整備局HP、芝浦プロジェクトHP（2023年12月現在）</p>
-            </li>
-          </ul>
-          <ul class="lists list03 clearfix">
-            <li>
-              <p class="name">浜松町二丁目地区第一種市街地再開発事業</p>
-              <p class="purpose">（主要用途：住宅・事務所・公益施設・店舗・駐車場・地下鉄施設等）</p>
-              <p class="schedule">■工事完了（予定）：2026年度</p>
-              <p class="info">本事業は、世界貿易センタービル建替えを始めとする隣接街区とともに、浜松町駅西口地区地区計画の指定を受けて進行する第一種市街地再開発事業です。都市に潤いと賑わいをもたらす多様な機能の導入と、駅と周辺市街地をつなぐ結節点となる安全で快適なまちづくりを目標とし、共同住宅、事務所、商業施設等を整備します。</p>
-              <p class="mini">※出典：株式会社世界貿易センタービルディングHP、港区HP（2023年12月現在）</p>
-            </li>
-            <li>
-              <div class="image">
-                <img src="./images/location02/list03.jpg">
-                <p class="annotation white">提供画像（完成予想図）</p>
-              </div>
-            </li>
-          </ul>
-          <ul class="lists list04 clearfix">
-            <li>
-              <div class="image">
-                <img src="./images/location02/list04.jpg">
-                <p class="annotation white">提供画像（完成予想図）</p>
-              </div>
-            </li>
-            <li>
-              <p class="name">三田小山町西地区第一種市街地再開発事業</p>
-              <p class="purpose">（主要用途：住宅・事務所・店舗・保育園・駐車場等）</p>
-              <p class="schedule">■工事完了（予定）：2028年度</p>
-              <p class="info">本プロジェクトでは、約1,450 戸の共同住宅をはじめとして、オフィスや店舗、公園を一体で開発するとともに、近傍の麻布十番エリアへつながる動線を設け、エリア全体の回遊性・利便性を高めることに加え、地域の方が憩い、交流できるような緑あふれる広場や歩行者空間を整備します。</p>
-              <p class="mini">※出典：三井不動産レジデンシャル株式会社HP、港区HP（2023年12月現在）</p>
-            </li>
-          </ul>
-        </div><!-- box -->
-      </div><!-- bg -->
-    </div><!-- wrap -->
+    </div><!-- inner -->
   </section><!-- intro -->
 
 
 
   <div class="sections shops clearfix">
     <div class="inner">
-
+      <ul class="column02 list01">
+        <li>
+          <div class="image img02 sp">
+          <img src="./images/location02/shop01-01.jpg" alt="" class="">
+          <p class="annotation white">msb ムスブ田町（約550m/徒歩7分）</p>
+          </div>
+          <p class="sub">スーパーや飲食店の揃う</p>
+          <p class="name">msb ムスブ田町</p>
+          <p class="lead">JR「田町」駅芝浦口からペデストリアンデッキで直結した複合施設。30店舗以上のテナントが入る2つのタワーと、ホテル「プルマン東京田町」で構成されています。</p>
+          <div class="image img01">
+          <img src="./images/location02/shop01-02.jpg" alt="" class="">
+          <p class="annotation white">ライフムスブ田町店（約550m/徒歩7分）</p>
+          </div>
+        </li>
+        <li>
+          <div class="image img02 pc">
+          <img src="./images/location02/shop01-01.jpg" alt="" class="">
+          <p class="annotation white">msb ムスブ田町（約550m/徒歩7分）</p>
+          </div>
+        </li>
+      </ul>
+      <ul class="column02 list02">
+        <li>
+          <div class="image img02">
+          <img src="./images/location02/shop02-01.jpg" alt="" class="">
+          <p class="annotation white">芝浦公園（約340m/徒歩5分）</p>
+          </div>
+        </li>
+        <li>
+          <p class="sub">整備された美しい公園</p>
+          <p class="name">芝浦公園</p>
+          <p class="lead">開放感のある草地広場や子ども達に人気の「ふわふわドーム」など遊具も揃っており、休日は家族の憩いの場となります。</p>
+          <div class="image img01">
+          <img src="./images/location02/shop02-02.jpg" alt="" class="">
+          <p class="annotation white">芝浦公園（約340m/徒歩5分）</p>
+          </div>
+        </li>
+      </ul>
+      <ul class="column02 list03">
+        <li>
+          <div class="image img02 sp">
+          <img src="./images/location02/shop03-01.jpg" alt="" class="">
+          <p class="annotation white">芝浦西運河沿緑地（約450m/徒歩6分）</p>
+          </div>
+          <p class="sub">運河のある癒しの空間</p>
+          <p class="name">芝浦運河</p>
+          <p class="lead">運河に沿う遊歩道で気持ちの良い風を感じながら、お散歩やランニングを楽しむことができます。</p>
+          <div class="image img01">
+          <img src="./images/location02/shop03-02.jpg" alt="" class="">
+          <p class="annotation white">芝浦西運河沿緑地（約450m/徒歩6分）</p>
+          </div>
+        </li>
+        <li>
+          <div class="image img02 pc">
+          <img src="./images/location02/shop03-01.jpg" alt="" class="">
+          <p class="annotation white">芝浦西運河沿緑地（約450m/徒歩6分）</p>
+          </div>
+        </li>
+      </ul>
+      <div class="bg">
+        <div class="box">
+          <p class="txt01">歴史ある「愛育病院」をはじめ医療施設も身近に。</p>
+          <ul class="column02">
+            <li>
+              <p class="txt02">徒歩圏に多彩な病院が揃っているので様々な医療サポートをいざという時に受けることが出来ます。また、歴史ある「愛育病院」は、女性やお子様の診療を専門とした病院で、皇族の方が出産される場所としても有名です。</p>
+              <div class="image sp">
+                <img src="./images/location02/hospital01.jpg" alt="" class="">
+                <p class="annotation white">愛育病院（約340m/徒歩5分）</p>
+              </div>
+              <ul class="list">
+                <li>
+                  <div class="image">
+                  <img src="./images/location02/hospital02.jpg" alt="" class="">
+                  <p class="annotation white">有明みんなクリニック田町芝浦院<br>（約380m/徒歩5分）</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="image">
+                  <img src="./images/location02/hospital03.jpg" alt="" class="">
+                  <p class="annotation white">みなと整形外科内科クリニック<br>（約540m/徒歩7分）</p>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <div class="image pc">
+                <img src="./images/location02/hospital01.jpg" alt="" class="">
+                <p class="annotation white">愛育病院（約340m/徒歩5分）</p>
+              </div>
+            </li>
+          </ul>
+        </div><!-- box -->
+      </div><!-- bg -->
     </div><!-- inner -->
   </div><!-- shops -->
 
 
 
-  <section class="life-info clearfix">
+  <div class="sections gourmet clearfix">
     <div class="inner">
+      <p class="sub garamond">GOURMET</p>
+      <p class="tit">“贅沢なひととき”を味わえる場所がここにある。</p>
+      <ul class="column02">
+        <li>
+          <div class="image">
+            <img src="./images/location02/gourmet01.jpg" alt="" class="">
+            <p class="annotation white">提供写真</p>
+            <div class="texts pc">
+              <p class="name">ツキ シュール ラメール<span>（約1,380m／徒歩18分）</span></p>
+              <p class="info">天井高約７ｍある空間で楽しむフレンチと江戸前寿司。</p>
+            </div>
+          </div>
+          <div class="texts sp">
+            <p class="name">ツキ シュール ラメール<br><span>（約1,380m／徒歩18分）</span></p>
+            <p class="info">天井高約７ｍある空間で楽しむフレンチと江戸前寿司。</p>
+          </div>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/gourmet02.jpg" alt="" class="">
+            <p class="annotation white">提供写真</p>
+            <div class="texts pc">
+              <p class="name">Mi tiempo <span>［ミ・ティエンポ］（約330ｍ/徒歩5分）</span></p>
+              <p class="info">パエリアやワインを楽しめる運河沿いの隠れ家レストラン。</p>
+            </div>
+          </div>
+          <div class="texts sp">
+            <p class="name">Mi tiempo <br><span>［ミ・ティエンポ］（約330ｍ/徒歩5分）</span></p>
+            <p class="info">パエリアやワインを楽しめる運河沿いの隠れ家レストラン。</p>
+          </div>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/gourmet03.jpg" alt="" class="">
+            <p class="annotation white">提供写真</p>
+            <div class="texts pc">
+              <p class="name">ビストロ ア ラ ドゥマンド<span>（約240ｍ/徒歩3分）</span></p>
+              <p class="info">併設されたパン工房の美味しいパンとフランス料理。</p>
+            </div>
+          </div>
+          <div class="texts sp">
+            <p class="name">ビストロ ア ラ ドゥマンド<br><span>（約240ｍ/徒歩3分）</span></p>
+            <p class="info">併設されたパン工房の美味しいパンとフランス料理。</p>
+          </div>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/gourmet04.jpg" alt="" class="">
+            <p class="annotation white">提供写真</p>
+            <div class="texts pc">
+              <p class="name">Ptisserie PORT SINCERE<span>（約670ｍ/徒歩9分）</span></p>
+              <p class="info">四季折々のフランス菓子を提供するテイクアウト専門店。</p>
+            </div>
+          </div>
+          <div class="texts sp">
+            <p class="name">Ptisserie PORT SINCERE<br><span>（約670ｍ/徒歩9分）</span></p>
+            <p class="info">四季折々のフランス菓子を提供するテイクアウト専門店。</p>
+          </div>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/gourmet05.jpg" alt="" class="">
+            <p class="annotation white">提供写真</p>
+            <div class="texts pc">
+              <p class="name">Lounge CRIB<span>（約880ｍ/徒歩11分）</span></p>
+              <p class="info">運河沿いで本格バーベキューが楽しめる貸切専門パーティスペース。</p>
+            </div>
+          </div>
+          <div class="texts sp">
+            <p class="name">Lounge CRIB<br><span>（約880ｍ/徒歩11分）</span></p>
+            <p class="info">運河沿いで本格バーベキューが楽しめる貸切専門パーティスペース。</p>
+          </div>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/gourmet06.jpg" alt="" class="">
+            <p class="annotation white">提供写真</p>
+            <div class="texts pc">
+              <p class="name">BAGUS BAR Shibaura Island<span>（約880ｍ/徒歩11分）</span></p>
+              <p class="info">運河を臨めるオープンテラスのあるリゾートダイニング。</p>
+            </div>
+          </div>
+          <div class="texts sp">
+            <p class="name">BAGUS BAR Shibaura Island<br><span>（約880ｍ/徒歩11分）</span></p>
+            <p class="info">運河を臨めるオープンテラスのあるリゾートダイニング。</p>
+          </div>
+        </li>
+      </ul>
+      <p class="mini">※掲載の情報は、2023年12月現在のものです。※掲載の店舗・施設の内容等は将来変わる場合があります。<br>※掲載の距離表示については地図上の概測距離を、徒歩分数表示については80mを１分として算出し、端数を切り上げたものです。 </p>
+    </div><!-- inner -->
+  </div><!-- gourmet -->
 
+
+
+  <section class="sections life-info clearfix">
+    <div class="inner">
+      <p class="sub garamond">LIFE INFORMATION</p>
+      <p class="tit">周辺には商業・医療やスポーツ施設など<br class="pc">生活利便施設が充実しています。</p>
+      <div class="image map">
+        <img src="./images/location02/map.jpg" alt="" class="">
+      </div>
+      <ul class="column03">
+        <li>
+          <div class="image">
+            <img src="./images/location02/info01.svg" alt="" class="">
+          </div>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/info02.svg" alt="" class="">
+          </div>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/info03.svg" alt="" class="">
+          </div>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/info04.svg" alt="" class="">
+          </div>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/info05.svg" alt="" class="">
+          </div>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/info06.svg" alt="" class="">
+          </div>
+        </li>
+      </ul>
     </div><!-- inner -->
   </section><!-- life-info -->
 
