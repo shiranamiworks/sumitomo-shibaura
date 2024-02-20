@@ -517,4 +517,7 @@
   #access .taxi .list-tit {
     font-size: 18px;
   }
+  #access .taxi .txt-img.txt05 {
+    margin-top: -1px;
+  }
 }/*# sourceMappingURL=access.css.map */
