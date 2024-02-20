@@ -431,9 +431,6 @@
   .location01 pc {
     display: none;
   }
-  .location01 main {
-    background: none;
-  }
   .location01 .main-visual {
     padding-bottom: 40px;
     margin-bottom: 40px;
@@ -630,8 +627,19 @@
     width: 100%;
     margin: auto;
   }
+  .location01 .accessline .list01 li .images {
+    position: relative;
+  }
   .location01 .accessline .list01 li:last-child {
     margin-top: 20px;
+  }
+  .location01 .accessline .list01 li:last-child .leaflet-top {
+    bottom: 30px;
+  }
+  .location01 .accessline .list01 li:last-child .bottom {
+    position: absolute;
+    bottom: -15px;
+    right: 0;
   }
   .location01 .accessline .list01 .lead {
     font-size: 16px;

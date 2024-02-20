@@ -446,9 +446,9 @@
     pc {
       display: none;
     }
-    main {
-      background: none;
-    }
+    // main {
+    //   background: none;
+    // }
 
     .main-visual {
       padding-bottom: 40px;
@@ -651,9 +651,20 @@
           display: block;
           width: 100%;
           margin: auto;
+          .images{
+            position: relative;
+          }
         }
         li:last-child {
           margin-top: 20px;
+          .leaflet-top{
+            bottom: 30px;
+          }
+          .bottom{
+            position: absolute;
+            bottom: -15px;
+            right: 0;
+          }
         }
         .lead {
           font-size: 16px;

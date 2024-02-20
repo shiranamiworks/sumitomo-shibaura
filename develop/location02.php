@@ -72,7 +72,7 @@
         <li>
           <div class="image img02 pc">
           <img src="./images/location02/shop01-01.jpg" alt="" class="">
-          <p class="annotation white">msb ムスブ田町（約550m/徒歩7分）</p>
+          <p class="annotation white">msb ムスブ田町<br class="sp">（約550m/徒歩7分）</p>
           </div>
         </li>
       </ul>
@@ -89,7 +89,7 @@
           <p class="lead">開放感のある草地広場や子ども達に人気の「ふわふわドーム」など遊具も揃っており、休日は家族の憩いの場となります。</p>
           <div class="image img01">
           <img src="./images/location02/shop02-02.jpg" alt="" class="">
-          <p class="annotation white">芝浦公園（約340m/徒歩5分）</p>
+          <p class="annotation white">芝浦公園<br class="sp">（約340m/徒歩5分）</p>
           </div>
         </li>
       </ul>
@@ -104,7 +104,7 @@
           <p class="lead">運河に沿う遊歩道で気持ちの良い風を感じながら、お散歩やランニングを楽しむことができます。</p>
           <div class="image img01">
           <img src="./images/location02/shop03-02.jpg" alt="" class="">
-          <p class="annotation white">芝浦西運河沿緑地（約450m/徒歩6分）</p>
+          <p class="annotation white">芝浦西運河沿緑地<br class="sp">（約450m/徒歩6分）</p>
           </div>
         </li>
         <li>
@@ -254,7 +254,8 @@
       <p class="sub garamond">LIFE INFORMATION</p>
       <p class="tit">周辺には商業・医療やスポーツ施設など<br class="pc">生活利便施設が充実しています。</p>
       <div class="image map">
-        <img src="./images/location02/map.jpg" alt="" class="">
+        <figure class="pc"><img src="./images/location02/map.jpg" class="sp-hide" alt="生活利便施設マップ"></figure>
+        <figure class="tb"><img src="./images/location02/map.jpg" class="zoomImg tb" alt=""/></figure>
       </div>
       <ul class="column03">
         <li>

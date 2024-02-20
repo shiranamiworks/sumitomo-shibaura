@@ -451,4 +451,7 @@
     text-align: left;
     font-size: 24px;
   }
+  .location02 .life-info .leaflet-top {
+    bottom: 25px;
+  }
 }/*# sourceMappingURL=location02.css.map */

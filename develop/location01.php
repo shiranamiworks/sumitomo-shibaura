@@ -44,13 +44,13 @@
       <div class="tit-img">
         <img src="./images/location01/page-tit.svg">
       </div>
-      <p class="tit">５つの個性ある街を持つ港区。<br>それぞれの街の魅力が日々を豊かに彩ってくれる。</p>
-      <p class="lead">東京の商業と文化の中心にある港区は、５つの個性的で魅力のあるエリアで成り立っています。<br>『シティタワー東京田町』のある「芝浦・台場エリア」は、レインボーブリッジや東京湾が近く、<br class="pc">点在する公園や運河が穏やかな時間を提供してくれるエリアです。</p>
-      <div class="image img01">
-        <img src="./images/location01/intro01.jpg" alt="" class="">
+      <p class="tit">5つの個性ある街を持つ港区。<br>それぞれの街の魅力が日々を豊かに彩ってくれる。</p>
+      <p class="lead">東京の商業と文化の中心にある港区は、5つの個性的で魅力のあるエリアで成り立っています。<br>『シティタワー東京田町』のある「芝浦・台場エリア」は、レインボーブリッジや東京湾が近く、<br class="pc">点在する公園や運河が穏やかな時間を提供してくれるエリアです。</p>
+      <div class="images img01">
+        <figure class="pc"><img src="./images/location01/intro01.jpg" class="sp-hide" alt="広域エリア概念図"></figure>
+        <figure class="tb"><img src="./images/location01/intro01.jpg" class="zoomImg tb" alt=""/></figure>
+        <p class="mini">■広域エリア概念図</p>
       </div>
-      <p class="mini">■広域エリア概念図</p>
-
     <ul class="lists list01">
       <li>
         <div class="image">
@@ -119,10 +119,11 @@
       <p class="tit">「品川」駅のリニア中央新幹線開業<span>（予定）</span>を見据え、<br class="pc">日本の成長を牽引する国際交流拠点へ。</p>
       <p class="lead">芝浦・港南を含むこのエリアは、日本の未来を切り拓く重要な拠点として急速に発展しており、<br class="pc">「品川」駅リニア中央新幹線の開業（予定）を見越して、国際的な交流とイノベーションの中心地としての役割を強化しています。<br>また当物件近くは広い歩道が整備され、それに続く美しい並木道が、毎日の生活に充実感と安らぎを与えてくれます。</p>
       <div class="images">
-        <div class="image img01">
-          <img src="./images/location01/evolution02.png">
-          <p class="annotation">■立地概念図</p>
-        </div>
+        <div class="images img01">
+        <figure class="pc"><img src="./images/location01/evolution02.png" class="sp-hide" alt="■立地概念図"></figure>
+        <figure class="tb"><img src="./images/location01/evolution02.png" class="zoomImg tb" alt=""/></figure>
+        <p class="annotation">■立地概念図</p>
+      </div>
         <div class="image img02">
           <img src="./images/location01/evolution03.png">
           <p class="annotation white">芝浦公園（約340m/徒歩5分）</p>
@@ -207,7 +208,7 @@
 
   <section class="accessline sections clearfix">
     <div class="inner">
-      <p class="tit">羽田空港へのダイレクトアクセスでもっと便利に<br class="pc"><span>羽田空港アクセス線</span>（仮称）。</p>
+      <p class="tit">羽田空港へのダイレクトアクセスで<br class="sp">もっと便利に<br><span>羽田空港アクセス線</span>（仮称）。</p>
       <ul class="list01">
         <li>
           <p class="lead">羽田空港から既存の鉄道ネットワークを活用して、「東京」駅、「上野」駅などをダイレクトに結ぶ計画。羽田空港の国内線第1ターミナルと第2ターミナルの間に「羽田空港新駅（仮称）」を建設。計画ルートのうち、東京貨物ターミナルまでの約5.0kmの区間に設ける「羽田空港アクセス線（仮称）」と、そこから「田町」駅付近へ向かう「東山手ルート」は、2031年度の運行開始を目指しています。</p>
@@ -218,9 +219,10 @@
           </div>
         </li>
         <li>
-          <div class="image">
-            <img src="./images/location01/accessline02.jpg">
-            <p class="annotation white bottom">■羽田空港アクセス線ルート図</p>
+          <div class="images img01">
+            <figure class="pc"><img src="./images/location01/accessline02.jpg" class="sp-hide" alt="■立地概念図"></figure>
+            <figure class="tb"><img src="./images/location01/accessline02.jpg" class="zoomImg tb" alt=""/></figure>
+             <p class="annotation white bottom">■羽田空港アクセス線ルート図</p>
           </div>
           <div class="image sp">
             <img src="./images/location01/accessline01.jpg">
@@ -230,13 +232,13 @@
       </ul>
       <div class="shinkansen">
         <p class="sub garamond">LINEAR SHINKANSEN</p>
-        <p class="tit"> <span>未来へと加速する新しい生活が始まる。</span></p>
+        <p class="tit"> <span>未来へと加速する<br class="sp">新しい生活が始まる。</span></p>
         <div class="image img03">
           <img src="./images/location01/accessline03.jpg">
           <p class="annotation white">image photo 品川駅（約2.5km）</p>
         </div>
         <p class="txt01">リニア中央新幹線の開業（予定）で利便性が増す「品川」駅。</p>
-        <p class="txt02">東京?名古屋を最速約40分、東京?新大阪間を最速約67分で結ぶとされ、<br class="pc">日本各地がより身近なものになります。</p>
+        <p class="txt02">東京&#x301c;名古屋を最速約40分、東京?新大阪間を最速約67分で結ぶとされ、<br class="pc">日本各地がより身近なものになります。</p>
         <div class="image img04">
           <div class="swipe-img">
           <img src="./images/location01/accessline04.jpg">
