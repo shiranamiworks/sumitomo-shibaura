@@ -321,9 +321,6 @@
   #access pc {
     display: none;
   }
-  #access main {
-    background: none;
-  }
 }
 @media screen and (max-width: 768px) and (max-width: 768px) {
   #access .main-visual .annotation {

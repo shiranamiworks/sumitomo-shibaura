@@ -67,7 +67,7 @@
               <h3>コンセプト</h3>
             </div>
         </a>
-        <!-- <a href="./location01.html">
+        <a href="./location01.html">
           <figure><img src="./images/top/img_location.jpg" alt="ロケーション"><p class="annotation white">image photo</p></figure>
             <div class="contents-link__ttl">
               <p class="f-en">LOCATION</p>
@@ -80,7 +80,7 @@
               <p class="f-en">ACCESS</p>
               <h3>アクセス</h3>
              </div>
-        </a> -->
+        </a>
          <div class="ComingSoon">
           <div class="contents-link__ttl">
              <p class="f-en">Coming Soon</p>

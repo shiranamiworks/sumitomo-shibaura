@@ -143,11 +143,8 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
             </div>
           </li>
           <li>
-          <p><a href="<?= $page_settings["directory_pos"]  ?>access.html"><span class="f-en">ACCESS</span><br>アクセス</a></p>
+          <a href="<?= $page_settings["directory_pos"]  ?>access.html"><span class="f-en">ACCESS</span><br>アクセス</a>
           </li>
-          <!-- <li>
-            <a href="<?= $page_settings["directory_pos"]  ?>access.html"><span class="f-en">ACCESS</span><br>アクセス</a>
-          </li> -->
         </ul>
       </nav>
       <div class="header-menu-right">
