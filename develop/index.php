@@ -26,7 +26,8 @@
     <figure><img src="./images/top/mv01-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">ŠOŠÏŠ®¬—\‘z}</p></figure>
     <figure><img src="./images/top/mv02-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">q‹óŽÊ^</p></figure>
   </div>
-  <div class="sp tb">
+  <div>
+    <figure><img src="./images/top/sokyu-pc.jpg" alt="" class="w_100 pc"></figure>
     <figure><img src="./images/top/sokyu-sp.jpg" alt="" class="w_100 sp tb"></figure>
   </div><!--//top-mv -->
   

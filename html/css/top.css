@@ -30,6 +30,13 @@ pc {
   margin: 0 auto 15px auto;
 }
 
+.top-mv__slide.slick-dotted.slick-slider {
+  margin-bottom: 0;
+}
+.top-mv__slide .slick-dots {
+  bottom: -20%;
+}
+
 .mv-access {
   letter-spacing: 0.05em;
   background-color: #f1e9dc;
@@ -130,6 +137,9 @@ pc {
   /* SP用 MVスライド */
   .top-mv {
     background: #F1E9DC;
+  }
+  .top-mv__slide .slick-dots {
+    bottom: -55%;
   }
   .top-mv__slide .slick-dots li {
     width: 10px;
