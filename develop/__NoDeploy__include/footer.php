@@ -4,11 +4,11 @@
     <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=tamachi&LINK=entry"></script>
     <script type="text/javascript" src="/bukken_manage/bukken_manage_link.cgi?AREA_CD=shuto&PROP_CD=tamachi"></script>
       <div class="entry-tel">
-        <p>お問い合わせは住友不動産<br class="sp">「総合マンションギャラリー新橋館」</p>
-        <a href="<?= $site_setting["tel_link"]?>" class="entry-tel__num"><img src="./images/common/icn_entry-tel.png" alt=""><span class="f-en">0120-366-433</span></a><br>
+        <p>お問い合わせは住友不動産<br class="sp">「リモート販売センター品川」</p>
+        <a href="<?= $site_setting["tel_link"]?>" class="entry-tel__num"><img src="./images/common/icn_entry-tel.png" alt=""><span class="f-en">0120-112-507</span></a><br>
         <a href="mailto:ct-tamachi@j.sumitomo-rd.co.jp" class="disabled">ct-tamachi@j.sumitomo-rd.co.jp</a>
       </div>
-      <p class="entry-info">営業時間／平日 11：00～19：00／土・日・祝日 10：00～18：00<br class="sp">（水曜定休、年末年始は休業）</p>
+      <p class="entry-info">営業時間／10:00～18:00<br class="sp">（火・水曜定休（祝日除く）、年末年始は休業）</p>
     </div>
   </div><!-- / entry -->
 
