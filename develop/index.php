@@ -19,8 +19,8 @@
 
 <main>
   <div class="top-mv__slide pc">
-    <figure><img src="./images/top/mv01-pc.jpg" alt="" class="w_100 pc"></figure>
-    <figure><img src="./images/top/mv02-pc.jpg" alt="" class="w_100 pc"></figure>
+    <figure><img src="./images/top/mv01-pc.jpg" alt="" class="w_100 pc"><p class="annotation white">外観完成予想図</p></figure>
+    <figure><img src="./images/top/mv02-pc.jpg" alt="" class="w_100 pc"><p class="annotation white">航空写真</p></figure>
   </div><!--//top-mv -->
   <div class="top-mv__slide sp tb">
     <figure><img src="./images/top/mv01-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">外観完成予想図</p></figure>
