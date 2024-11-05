@@ -132,9 +132,6 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
           <li>
             <p><span class="f-en">STRUCTURE・SAFETY</span><br>構造・防災</p>
           </li>
-          <!-- <li>
-            <p><span class="f-en">LOCATION</span><br>ロケーション</p>
-          </li> -->
           <li class="has-child">
             <p class="active"><span class="f-en">LOCATION</span><br>ロケーション</p>
             <div class="sub-menu">
@@ -156,11 +153,11 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
             <li><a href="map.html" target="_blank">現地案内図</a></li>
             <li><a href="/shuto/tamachi/faq.cgi" target="_blank">FAQ</a></li>
             <li><a href="javascript:outline();">物件概要</a></li>
-            <li><p>マンション情報ブログ</p></li>
+            <li><a href="javascript:blog();">マンション情報ブログ</a></li>
           </ul>
           <div class="header-sns">
-            <a href="https://twitter.com/" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
-            <a href="https://www.instagram.com/" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
+            <a href="https://x.com/Ct_tokyotamachi" target="_blank"><img src="./images/common/icn_x_blk.png" alt="Twitter"></a>
+            <a href="https://www.instagram.com/ct_tokyotamachi/profilecard/?igsh=d29xYmRtbWNsYzk%3D" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
           </div>
         </div>
       </div>
@@ -183,14 +180,14 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         <li><a href="<?= $page_settings["directory_pos"]  ?>access.html">アクセス</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>map.html" target="_blank">現地案内図</a></li>
         <li><a href="javascript:outline();">物件概要</a></li>
-        <li><p href="javascript:blog();">マンション情報ブログ</p></li>
+        <li><a href="javascript:blog();">マンション情報ブログ</a></li>
         <li><a href="/shuto/tamachi/faq.cgi" target="_blank">FAQ</a></li>
         <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=tamachi&LINK=sp-menu"></script>
       </ul>
     </nav>
     <div class="sp-menu-sns d-flex justify-content-center align-items-center">
-      <a href="https://twitter.com/" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
-       <a href="https://www.instagram.com/" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
+      <a href="https://x.com/Ct_tokyotamachi" target="_blank"><img src="./images/common/icn_x.png" alt="Twitter"></a>
+      <a href="https://www.instagram.com/ct_tokyotamachi/profilecard/?igsh=d29xYmRtbWNsYzk%3D" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
     </div>
   </div><!--//sp-menu -->
 </header>
