@@ -157,7 +157,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
           </ul>
           <div class="header-sns">
             <a href="https://x.com/Ct_tokyotamachi" target="_blank"><img src="./images/common/icn_x_blk.png" alt="Twitter"></a>
-            <a href="https://www.instagram.com/ct_tokyotamachi/profilecard/?igsh=d29xYmRtbWNsYzk%3D" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
+            <a href="https://www.instagram.com/ct_tokyotamachi/" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
           </div>
         </div>
       </div>
@@ -174,8 +174,6 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         <li>間取り</li>
         <li>設備・仕様</li>
         <li>構造・防災</li>
-        <!-- <li>ロケーション</li>
-        <li>アクセス</li>-->
         <li><a href="<?= $page_settings["directory_pos"]  ?>location01.html">ロケーション</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>access.html">アクセス</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>map.html" target="_blank">現地案内図</a></li>
@@ -187,7 +185,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
     </nav>
     <div class="sp-menu-sns d-flex justify-content-center align-items-center">
       <a href="https://x.com/Ct_tokyotamachi" target="_blank"><img src="./images/common/icn_x.png" alt="Twitter"></a>
-      <a href="https://www.instagram.com/ct_tokyotamachi/profilecard/?igsh=d29xYmRtbWNsYzk%3D" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
+      <a href="https://www.instagram.com/ct_tokyotamachi/" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
     </div>
   </div><!--//sp-menu -->
 </header>
