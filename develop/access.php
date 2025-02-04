@@ -39,7 +39,7 @@
       <div class="tit-img">
         <img src="./images/access/page-tit.svg">
       </div>
-      <p class="tit"><span>JR山手線・京浜東北線「田町」駅をはじめ</span><br class="pc">4駅5路線利用の快適アクセス。</p>
+      <p class="tit"><span>JR山手線・京浜東北線「田町」駅をはじめ</span><br class="pc">3駅5路線<sup>※1</sup>利用の快適アクセス。</p>
       <p class="lead">「東京」や「新宿」へと、“芝浦エリア”ならではのダイレクトアクセス。<br>通勤やショッピングにストレスのない快適さをこの場所で堪能できます。</p>
 				<div class="image img01">
 					<div class="swipe-img right-start01 modify-starts">
@@ -47,7 +47,7 @@
           </div>
           <p class="annotation">路線図</p>
         </div>
-        <p class="mini">※1.JR山手線・京浜東北線「田町」駅、都営浅草線・都営三田線「三田」駅、ゆりかもめ「芝浦ふ頭」駅、「日の出」駅。</p>
+        <p class="mini">※1.JR山手線・京浜東北線「田町」駅、都営浅草線・都営三田線「三田」駅、ゆりかもめ「芝浦ふ頭」駅。</p>
 				<div class="swipe tb sp"><p><img src="images/access/icon_swipe.svg" alt="スライドで全体を表示できます" /></p></div>
       <div class="distance">
         <p class="text">●現地から徒歩10分のJR山手線「田町」駅より</p>
