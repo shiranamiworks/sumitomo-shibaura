@@ -60,13 +60,15 @@
 }
 .equipment02 .sec01 .lists li.full {
   width: 100%;
-  margin-bottom: 60px;
 }
 .equipment02 .sec01 .lists li:last-child {
   margin-right: auto;
 }
 .equipment02 .sec01 .lists li:nth-child(3n) {
   margin-right: auto;
+}
+.equipment02 .sec01 .list00 {
+  margin-bottom: 60px;
 }
 .equipment02 .sec01 .list00 .text {
   width: 70%;
@@ -79,22 +81,13 @@
 .equipment02 .sec01 .list00 .image.full {
   width: 100%;
 }
-.equipment02 .sec01 .list00 .image01 {
+.equipment02 .sec01 .list00 .image.image01 {
   width: 55%;
   float: right;
 }
-.equipment02 .sec01 .list00 .image01 .tit-img span {
+.equipment02 .sec01 .list00 .image.image01 .tit-img span {
   padding-bottom: 0;
   border-bottom: none;
-}
-.equipment02 .sec01 .list00 .image01 .img01 {
-  float: left;
-  width: 51%;
-  margin-right: 2%;
-}
-.equipment02 .sec01 .list00 .image01 .img02 {
-  float: left;
-  width: 45%;
 }
 .equipment02 .sec01 .list00 .text01 {
   width: 40%;

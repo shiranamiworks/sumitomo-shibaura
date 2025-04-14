@@ -30,28 +30,17 @@
   text-align: center;
   margin-bottom: 20px;
 }
-.equipment01 .sections .image.img-sub {
-  width: 60%;
-  margin-bottom: 0;
+.equipment01 .sections .image.img01 {
+  text-align: left;
 }
-.equipment01 .sections .tit {
-  font-size: 1.8rem;
-  letter-spacing: 0.12em;
-  color: #fff;
-  background: #1D2A56;
-  margin-bottom: 30px;
-  padding: 10px;
+.equipment01 .sections .image.img01 .img-main {
+  width: 70%;
+  margin-top: 50px;
 }
-.equipment01 .sections .lead {
-  font-size: 14px;
-  line-height: 1.6;
-  margin-bottom: 10px;
-}
-.equipment01 .sections .lead span {
-  display: block;
-  font-size: 11px;
-  line-height: 1.6;
-  margin-top: 5px;
+.equipment01 .sections .image.img01 .img-sub {
+  width: 40%;
+  position: absolute;
+  right: 0;
 }
 .equipment01 .sections .text {
   font-size: 19px;
@@ -71,15 +60,21 @@
   display: inline-block;
   vertical-align: top;
   width: 31%;
-  margin-right: 2%;
+  margin-right: 2.75%;
 }
-.equipment01 .sec01 .lists li:nth-child(3n), .equipment01 .sec01 .lists li:last-child {
+.equipment01 .sec01 .lists li.double {
+  width: 64%;
+}
+.equipment01 .sec01 .lists li:nth-child(3n) {
   margin-right: auto;
 }
-.equipment01 .sec01 .lists.list03 li:nth-child(6) .image {
+.equipment01 .sec01 .lists.list01 li:nth-child(2), .equipment01 .sec01 .lists.list01 li:nth-child(3) {
+  margin-right: auto;
+}
+s .equipment01 .sec01 .lists.list03 li:nth-child(6) .image {
   margin-bottom: 0;
 }
-.equipment01 .sec01 .lists.list03 li:nth-child(6) .image.img-sub {
+s .equipment01 .sec01 .lists.list03 li:nth-child(6) .image.img-sub {
   margin-bottom: 30px;
 }
 .equipment01 .sec02 {
@@ -101,7 +96,7 @@
 .equipment01 .sec02 .lists li.double {
   width: 64%;
 }
-.equipment01 .sec02 .lists li:nth-child(3n) {
+.equipment01 .sec02 .lists li:nth-child(3n+1) {
   margin-right: auto;
 }
 .equipment01 .sec02 .lists li:last-child {

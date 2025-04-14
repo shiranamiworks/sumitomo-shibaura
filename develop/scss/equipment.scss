@@ -48,10 +48,10 @@
   max-width: 1200px;
 }
 .tit {
-  font-size: 1.8rem;
+  font-size: 3.6rem;
   letter-spacing: 0.12em;
-  color: #fff;
-  background: #1D2A56;
+  color: #3e3a39;
+  text-align: center;
   margin-bottom: 60px;
   padding: 10px;
 }
@@ -150,14 +150,14 @@
 .equipment-link a::before {
   display: none;
 }
-.tit {
-  font-size: 1.8rem;
-  letter-spacing: 0.12em;
-  color: #fff;
-  background: #1D2A56;
-  margin-bottom: 30px;
-  padding: 10px;
-}
+// .tit {
+//   font-size: 1.8rem;
+//   letter-spacing: 0.12em;
+//   color: #fff;
+//   background: #1D2A56;
+//   margin-bottom: 30px;
+//   padding: 10px;
+// }
 .tit-img {
   font-size: 2rem;
   line-height: 1;
@@ -222,7 +222,7 @@
   }
   .sections{
     .tit {
-      font-size: 1.8rem;
+      font-size: 3.6rem;
       margin-bottom: 30px;
       &:before,
       &:after {

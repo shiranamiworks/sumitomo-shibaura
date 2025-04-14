@@ -64,7 +64,6 @@
         }
         &.full {
           width: 100%;
-          margin-bottom: 60px;
         }
       }
       li:last-child {
@@ -75,6 +74,7 @@
       }
     }
     .list00 {
+      margin-bottom: 60px;
       .text {
         width: 70%;
         float: left;
@@ -85,22 +85,13 @@
         &.full{
           width: 100%;
         }
-      }
-      .image01 {
-        width: 55%;
-        float: right;
-        .tit-img span{
-          padding-bottom: 0;
-          border-bottom: none;
-        }
-        .img01{
-          float: left;
-          width: 51%;
-          margin-right: 2%;
-        }
-        .img02{
-          float: left;
-          width: 45%;
+        &.image01 {
+          width: 55%;
+          float: right;
+          .tit-img span{
+            padding-bottom: 0;
+            border-bottom: none;
+          }
         }
       }
       .text01 {

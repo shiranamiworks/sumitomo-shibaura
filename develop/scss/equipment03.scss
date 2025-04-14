@@ -8,7 +8,7 @@
 
 .equipment03 {
   main img {
-    width: 100%;
+    max-width: 100%;
   }
   .img {
     position: relative;
@@ -29,10 +29,31 @@
       width: 70%;
       max-width: 1030px;
     }
-    .image {
-      position: relative;
-      text-align: center;
-      margin-bottom: 20px;
+    .annotation {
+      bottom: -20px;
+      font-size: 12px;
+      text-align: right;
+    }
+    .lead {
+      span {
+        display: block;
+        font-size: 12px;
+        line-height: 1.6;
+        margin-top: 10px;
+        &.bg_bl{
+          display: inline-block;
+          background-color: #000;
+          color: #fff;
+          padding: 1px 4px;
+          margin-top: 0;
+        }
+        &.box{
+          display: inline-block;
+          border: 1px solid;
+          border-radius: 5px;
+          padding: 10px;
+        }
+      }
     }
     .text {
       font-size: 19px;
@@ -51,12 +72,33 @@
         vertical-align: top;
         width: 31%;
         margin-right: 2%;
-      }
-      li:nth-child(3n) {
-        margin-right: auto;
+        margin-bottom: 60px;
+        &.half{
+          width: 48%;
+        }
+        &.full {
+          width: 100%;
+          .lead{
+            width: 55%;
+            float: left;
+          }
+        }
       }
       li:last-child{
-        margin-top: 30px;
+        margin-right: auto;
+        .image.img02{
+          margin-bottom: 60px;
+        }
+        .image.img03{
+          width: 60%;
+          display: block;
+          margin: 30px auto;
+        }
+      }
+    }
+    .list02 {
+      li {
+        width: 48%;
       }
     }
   } //sec01
@@ -74,11 +116,6 @@
       .inner {
         width: 84%;
       }
-      .lead {
-        span {
-          font-size: 13px;
-        }
-      }
       .text {
         font-size: 17px;
       }
@@ -93,21 +130,20 @@
           display: block;
           width: 100%;
           margin-bottom: 40px;
+          &.half{
+            width: 100%;
+          }
+          &.full .lead,&.full .image{
+            width: 100%;
+            float: none;
+          }
+          &.full .image{
+            max-width: 375px;
+            margin: auto;
+          }
         }
         li:last-child {
           width: 100%;
-        }
-      }
-      .list03 {
-        .img-sub {
-          width: 70%;
-          margin: 0;
-        }
-      }
-      .list05 {
-        padding-bottom: 0;
-        li:last-child {
-          margin-top: 40px;
         }
       }
     } //sec01
