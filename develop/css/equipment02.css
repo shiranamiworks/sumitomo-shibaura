@@ -154,6 +154,12 @@
   .equipment02 .sec01 .list00 .image.full img {
     width: 100%;
   }
+  .equipment02 .sec01 .list00 .image.image01 {
+    width: 100%;
+  }
+  .equipment02 .sec01 .list00 .image.image01 img {
+    width: 100%;
+  }
   .equipment02 .sec01 .list00 .image01 {
     width: 100%;
     float: none;
