@@ -97,10 +97,23 @@
   margin-right: auto;
 }
 .structure01 .sec01 .list03 {
-  margin-bottom: 60px;
+  margin-bottom: 55px;
 }
-.structure01 .sec01 .list03 li:nth-child(2) {
+.structure01 .sec01 .list03 li:nth-child(3) {
+  float: right;
+}
+.structure01 .sec01 .list03 li:last-child {
   margin-right: auto;
+}
+.structure01 .sec01 .list03 li:last-child .lead {
+  margin-bottom: 20px;
+}
+.structure01 .sec01 .list03 .box {
+  font-size: 13px;
+  line-height: 1.3;
+  border: 1px solid;
+  padding: 10px;
+  box-sizing: border-box;
 }
 .structure01 .sec02 .lists {
   margin-bottom: 40px;
@@ -175,6 +188,7 @@
   .structure01 .sec01 .lists li {
     width: 100%;
     display: block;
+    margin-right: auto;
   }
   .structure01 .sec01 .lists li.half, .structure01 .sec01 .lists li.double {
     width: 100%;

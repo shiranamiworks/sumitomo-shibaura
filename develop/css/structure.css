@@ -87,12 +87,11 @@
 }
 
 .tit {
-  font-size: 1.8rem;
+  font-size: 42px;
   letter-spacing: 0.12em;
-  color: #fff;
-  background: #1D2A56;
-  margin-bottom: 30px;
-  padding: 10px;
+  color: #b9a277;
+  margin-bottom: 60px;
+  text-align: center;
 }
 
 .tit-img {
@@ -148,6 +147,7 @@
   }
   .tit-img {
     font-size: 2rem;
+    line-height: 1.4;
   }
   .tit-img.mt30 {
     margin-top: 30px;

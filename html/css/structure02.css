@@ -68,15 +68,23 @@
 .structure02 .sec01 .lists li:last-child {
   margin-right: auto;
 }
+.structure02 .sec01 .lists li.full {
+  width: 100%;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
 .structure02 .sec01 .list01 {
+  width: 100%;
   margin-bottom: 40px;
+}
+.structure02 .sec01 .list01 .text {
+  width: 60%;
+  float: left;
 }
 .structure02 .sec01 .list01 .image {
-  margin-bottom: 40px;
-}
-.structure02 .sec01 .list01 .image.wid75 {
-  width: 75%;
-  margin: 0 auto 40px;
+  width: 38%;
+  float: right;
+  margin-top: 30px;
 }
 .structure02 .sec01 .list02 {
   margin-bottom: 40px;
@@ -95,7 +103,8 @@
   display: flex;
 }
 .structure02 .sec01 .list02 .lead-box .lead {
-  width: 35%;
+  width: 60%;
+  margin-right: 2%;
 }
 .structure02 .sec01 .list02 .lead-box .lead.lead01 {
   width: 65%;
@@ -104,9 +113,6 @@
   float: right;
   width: 60%;
   margin: 0 auto;
-}
-.structure02 .sec01 .list02 .lead-box .image.img01 {
-  width: 30%;
 }
 .structure02 main {
   padding-bottom: 50px;
@@ -137,6 +143,21 @@
   }
   .structure02 .sec01 .lists li.half, .structure02 .sec01 .lists li.double {
     width: 100%;
+  }
+  .structure02 .sec01 .lists li.full {
+    margin-bottom: 30px;
+  }
+  .structure02 .sec01 .list01 {
+    width: 100%;
+  }
+  .structure02 .sec01 .list01 .text {
+    width: 100%;
+    float: none;
+  }
+  .structure02 .sec01 .list01 .image {
+    width: 100%;
+    float: none;
+    margin: 0 auto;
   }
   .structure02 .sec01 .list02 .lead-box {
     display: block;

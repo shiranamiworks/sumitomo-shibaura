@@ -105,11 +105,22 @@
       }
     }
     .list03 {
-      margin-bottom: 60px;
-      li {
-        &:nth-child(2){
-          margin-right: auto;
+      margin-bottom: 55px;
+      li:nth-child(3){
+        float: right;
+      }
+      li:last-child {
+        margin-right: auto;
+        .lead{
+          margin-bottom: 20px;
         }
+      }
+      .box {
+        font-size: 13px;
+        line-height: 1.3;
+        border: 1px solid;
+        padding: 10px;
+        box-sizing: border-box;
       }
     }
   } //sec01
@@ -197,6 +208,7 @@
         li {
           width:100%;
           display: block;
+          margin-right: auto;
           &.half,&.double{
             width: 100%;
           }

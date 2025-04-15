@@ -72,16 +72,24 @@
         &:last-child {
           margin-right: auto;
         }
+        &.full{
+          width: 100%;
+          margin-right: auto;
+          margin-bottom: 20px;
+        }
       }
     }
     .list01 {
+      width: 100%;
       margin-bottom: 40px;
+      .text{
+        width: 60%;
+        float: left;
+      }
       .image{
-        margin-bottom: 40px;
-        &.wid75{
-          width: 75%;
-          margin: 0 auto 40px;
-        }
+        width: 38%;
+        float: right;
+        margin-top: 30px;
       }
     }
     .list02 {
@@ -99,7 +107,8 @@
       .lead-box{
         display: flex;
         .lead{
-          width: 35%;
+          width: 60%;
+          margin-right: 2%;
           &.lead01{
             width: 65%;
           }
@@ -108,9 +117,6 @@
           float: right;
           width: 60%;
           margin: 0 auto;
-          &.img01{
-            width: 30%;
-          }
         }
       }
     }
@@ -149,6 +155,21 @@
           &.half,&.double{
             width: 100%;
           }
+          &.full{
+            margin-bottom: 30px;
+          }
+        }
+      }
+      .list01 {
+        width: 100%;
+        .text{
+          width: 100%;
+          float: none;
+        }
+        .image{
+          width: 100%;
+          float: none;
+          margin: 0 auto;
         }
       }
       .list02 {

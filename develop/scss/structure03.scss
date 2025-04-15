@@ -74,7 +74,7 @@
       line-height: 1.2;
     }
     .mini {
-      margin-top: 6px;
+      margin-top: 20px;
       font-size: 11px;
       line-height: 1.6;
     }
@@ -89,17 +89,20 @@
       margin-bottom: 40px;
     }
     .list00 {
-      .lead{
-        width: 35%;
-        float:left;
+      li {
+        width: 65%;
+        margin-right: 2%;
       }
-      .image{
-        width: 60%;
-        float: right;
+      li:last-child {
+        width: 32%;
+        margin-right: auto;
       }
     }
     .list01 {
-      li:nth-child(2n){
+      li{
+        margin-bottom: 20px;
+      }
+      li:nth-child(3n){
         margin-right: auto;
       }
       li:first-child .lead{
@@ -107,7 +110,7 @@
       }
     }
     .list02 {
-      margin-bottom: 55px;
+      margin-bottom: 20px;
       li:nth-child(3){
         float: right;
       }
@@ -181,11 +184,13 @@
           margin-bottom: 40px;
         }
       }
-      .list00{
-        margin-bottom: 55px;
-        .lead,.image{
+      .list00 {
+        li {
           width: 100%;
-          float: none;
+          margin-right: auto;
+        }
+        li:last-child {
+          width: 100%;
         }
       }
       .list01 {
