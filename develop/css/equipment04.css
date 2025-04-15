@@ -16,6 +16,7 @@
 }
 .equipment04 sup {
   vertical-align: text-top;
+  font-size: 70%;
 }
 .equipment04 .sections {
   line-height: 1;
@@ -26,32 +27,38 @@
   max-width: 1030px;
 }
 .equipment04 .sections .image {
-  width: 40%;
-  float: right;
+  position: relative;
+  text-align: center;
 }
-.equipment04 .sections .annotation {
+.equipment04 .sections .image.mb30 {
+  margin-bottom: 30px;
+}
+.equipment04 .sections .image.pb10 {
+  padding-bottom: 10px;
+}
+.equipment04 .sections .image.wid75 {
+  width: 75%;
+  margin: 0 auto;
+}
+.equipment04 .sections .annotation.left {
+  right: auto;
+  left: 30%;
+}
+.equipment04 .sections .annotation.left.left01 {
+  left: 0;
+  text-align: left;
+}
+.equipment04 .sections .annotation.left.left02 {
+  left: 35%;
+}
+.equipment04 .sections .annotation.left.left03 {
+  left: 0;
+}
+.equipment04 .sections .annotation.bt10 {
+  bottom: 10px;
+}
+.equipment04 .sections .annotation.bt-20 {
   bottom: -20px;
-  font-size: 12px;
-  text-align: right;
-}
-.equipment04 .sections .lead span {
-  display: block;
-  font-size: 12px;
-  line-height: 1.6;
-  margin-top: 10px;
-}
-.equipment04 .sections .lead span.bg_bl {
-  display: inline-block;
-  background-color: #000;
-  color: #fff;
-  padding: 1px 4px;
-  margin-top: 0;
-}
-.equipment04 .sections .lead span.box {
-  display: inline-block;
-  border: 1px solid;
-  border-radius: 5px;
-  padding: 10px;
 }
 .equipment04 .sections .text {
   font-size: 19px;
@@ -69,28 +76,77 @@
   vertical-align: top;
   width: 31%;
   margin-right: 2%;
-  margin-bottom: 60px;
 }
-.equipment04 .sec01 .lists li.half {
-  width: 48%;
+.equipment04 .sec01 .lists li:nth-child(3n) {
+  margin-right: auto;
 }
-.equipment04 .sec01 .lists li.full {
-  width: 100%;
-}
-.equipment04 .sec01 .lists li.full .lead {
+.equipment04 .sec01 .lists li:nth-child(3n) .lead {
   width: 55%;
   float: left;
 }
-.equipment04 .sec01 .lists li:nth-child(2n) {
+.equipment04 .sec01 .lists li:nth-child(3n) .image {
+  width: 40%;
+  float: right;
+}
+.equipment04 .sec02 .lists li {
+  display: inline-block;
+  vertical-align: top;
+  width: 31%;
+  margin-right: 2%;
+  margin-bottom: 60px;
+}
+.equipment04 .sec02 .lists li:nth-child(3n+1) {
   margin-right: auto;
 }
-.equipment04 .sec01 .lists li:nth-child(2n) .image img {
+.equipment04 .sec02 .lists li:nth-child(4), .equipment04 .sec02 .lists li:nth-child(5), .equipment04 .sec02 .lists li:nth-child(6) {
+  margin-bottom: 0;
+}
+.equipment04 .sec02 .lists li.half {
+  width: 48%;
+}
+.equipment04 .sec02 .lists li.half .image {
+  max-width: 480px;
   width: 80%;
-  display: block;
   margin: 30px auto;
 }
-.equipment04 .sec01 .list02 li {
-  width: 48%;
+.equipment04 .sec02 .lists li.full {
+  width: 100%;
+}
+.equipment04 .sec02 .lists li.full .image {
+  max-width: 750px;
+  width: 90%;
+  margin: 0 auto;
+}
+.equipment04 .sec02 .lists li .mt30 {
+  margin-top: 30px;
+}
+.equipment04 .sec02 .lists li .mt45 {
+  margin-top: 45px;
+}
+.equipment04 .sec02 .lists li:nth-child(12) .lead, .equipment04 .sec02 .lists li:nth-child(13) .lead {
+  width: 55%;
+  float: left;
+}
+.equipment04 .sec02 .lists li:nth-child(12) .image, .equipment04 .sec02 .lists li:nth-child(13) .image {
+  width: 40%;
+  float: right;
+}
+.equipment04 .sec02 .list01 .lead-box, .equipment04 .sec02 .list02 .lead-box {
+  display: flex;
+}
+.equipment04 .sec02 .list01 .lead-box .lead, .equipment04 .sec02 .list02 .lead-box .lead {
+  width: 50%;
+  float: left;
+}
+.equipment04 .sec02 .list01 .lead-box .image, .equipment04 .sec02 .list02 .lead-box .image {
+  width: 50%;
+  margin: auto;
+}
+.equipment04 .sec02 .list01 li:nth-child(8), .equipment04 .sec02 .list02 li:nth-child(8) {
+  margin-right: 2%;
+}
+.equipment04 .sec02 .list01 li:last-child, .equipment04 .sec02 .list02 li:last-child {
+  margin-right: auto;
 }
 .equipment04 main {
   padding-bottom: 50px;
@@ -99,11 +155,22 @@
   .equipment04 .sections .inner {
     width: 84%;
   }
+  .equipment04 .sections .lead {
+    margin-bottom: 20px;
+  }
+  .equipment04 .sections .lead span {
+    font-size: 13px;
+  }
   .equipment04 .sections .text {
     font-size: 17px;
   }
   .equipment04 .sections .caps {
     font-size: 13px;
+  }
+  .equipment04 .sections .annotation.left.left01 {
+    right: 0;
+    text-align: right;
+    bottom: 50%;
   }
   .equipment04 .sec01 {
     margin-top: 40px;
@@ -113,19 +180,48 @@
     width: 100%;
     margin-bottom: 40px;
   }
-  .equipment04 .sec01 .lists li.half {
-    width: 100%;
-  }
-  .equipment04 .sec01 .lists li.full .lead, .equipment04 .sec01 .lists li.full .image {
-    width: 100%;
-    float: none;
-  }
-  .equipment04 .sec01 .lists li.full .image {
-    max-width: 375px;
-    margin: auto;
-  }
   .equipment04 .sec01 .lists li:last-child {
     width: 100%;
+  }
+  .equipment04 .sec01 .list03 {
+    margin-bottom: 40px;
+  }
+  .equipment04 .sec02 .lists li {
+    display: block;
+    width: 100%;
+    margin-bottom: 40px !important;
+  }
+  .equipment04 .sec02 .lists li.double {
+    width: 100%;
+  }
+  .equipment04 .sec02 .lists li.double .image {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  .equipment04 .sec02 .lists li.half {
+    width: 100%;
+  }
+  .equipment04 .sec02 .lists li.pc {
+    display: none;
+  }
+  .equipment04 .sec02 .lists li:nth-child(14) .image {
+    width: 100%;
+  }
+  .equipment04 .sec02 .lists li:last-child {
+    width: 100%;
+    margin-bottom: 0;
+  }
+  .equipment04 .sec02 .list01 .lead-box, .equipment04 .sec02 .list02 .lead-box {
+    display: block;
+  }
+  .equipment04 .sec02 .list01 .lead-box .lead, .equipment04 .sec02 .list02 .lead-box .lead {
+    width: 100%;
+    float: none;
+    margin-bottom: 20px;
+  }
+  .equipment04 .sec02 .list01 .lead-box .image, .equipment04 .sec02 .list02 .lead-box .image {
+    width: 60%;
+    margin: auto;
   }
   .equipment04 main {
     padding-bottom: 50px;
