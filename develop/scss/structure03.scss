@@ -38,6 +38,16 @@
         &.half{
           width: 48%;
         }
+        &:nth-child(8),&:nth-child(12){
+          .lead{
+            width: 50%;
+            float: left;
+          }
+          .image{
+            width: 45%;
+            float: right;
+          }
+        }
       }
     }
     line-height: 1;
@@ -138,6 +148,9 @@
         padding-bottom: 15px;
       }
     }
+    .list04{
+      margin-top: auto;
+    }
   } //sec01
   main {
     padding-bottom: 50px;
@@ -161,6 +174,21 @@
         }
         &.half{
           width: 100%;
+        }
+        &:nth-child(8){
+          .lead{
+            width: 100%;
+            float: none;
+          }
+          .image{
+            width: 100%;
+            float: none;
+          }
+        }
+        &:nth-child(12){
+          .lead{
+            margin-bottom: 30px;
+          }
         }
       }
       }
