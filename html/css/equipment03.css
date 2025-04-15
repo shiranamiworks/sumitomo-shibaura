@@ -30,6 +30,9 @@
   font-size: 12px;
   text-align: right;
 }
+.equipment03 .sections .annotation.bt-30 {
+  bottom: -30px;
+}
 .equipment03 .sections .lead span {
   display: block;
   font-size: 12px;

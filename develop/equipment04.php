@@ -175,7 +175,7 @@
           <div class="image">
             <img src="./images/equipment04/img14.png" alt="" class="">
           </div>
-          <p class="lead"><span>※ご利用エリアにより、サービス内容が制限される場合があります。<br>また、サービス内容は変更となる場合があります。詳しくは係員にお尋ねください。</span></p>
+          <p class="lead"><span>※本サービスは有料となります。（一部地域では提携業者のご紹介となります。）<br><br>※ご利用エリアにより、サービス内容が制限される場合があります。<br>また、サービス内容は変更となる場合があります。詳しくは係員にお尋ねください。</span></p>
         </li>
         <li  class="half">
           <p class="tit-img"><span>お引越しをサポートする</span>お引越し無料パック</p>

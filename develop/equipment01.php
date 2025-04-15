@@ -82,72 +82,28 @@
           </div>
         </li>
         <li>
-        <p class="tit-img"><span>浄水カートリッジを内蔵した</span>シングルレバーシャワー水栓</p>
-          <p class="lead">レバー操作ひとつで水量、温度調節可能なシングルレバー水栓を設置。シャワーヘッドを引き出せるので、シンクの掃除などにも便利です。また、浄水カートリッジを内蔵しております。<br><span>※カートリッジ交換費用は別途お客様のご負担となります。</span></p>
+          <p class="tit-img"><span>機能性とデザイン性を兼ね備えた</span>ビルトインタイプ複合シャワー水栓</p>
+          <p class="lead">湯水の開閉・調整レバーと浄水開閉レバーのダブルレバー操作で泡沫吐水とスプレーシャワーの2パターン吐水ができ浄水も原水と同様に吐水できます。アンダーシンクタイプの大容量浄水カートリッジでスパウトインタイプに比べたっぷり長期間浄が使用できます。また、シャワーヘッドを引き出せるので、シンクの掃除などにも便利です。<br><span>※カートリッジ交換費用は別途お客様のご負担となります。</span></p>
           <div class="image tb">
             <img src="./images/equipment01/img06.jpg" alt="" class="">
-            <p class="annotation gothic">参考写真1</p>
+            <p class="annotation gothic"></p>
           </div>
         </li>
         <li>
           <div class="image pc">
             <img src="./images/equipment01/img04.jpg" alt="" class="">
-            <p class="annotation gothic">参考写真1</p>
+            <p class="annotation gothic"></p>
           </div>
         </li>
         <li>
           <div class="image pc">
             <img src="./images/equipment01/img05.jpg" alt="" class="">
-            <p class="annotation gothic">参考写真1</p>
+            <p class="annotation gothic"></p>
           </div>
         </li>
         <li>
           <div class="image pc">
             <img src="./images/equipment01/img06.jpg" alt="" class="">
-            <p class="annotation gothic">参考写真1</p>
-          </div>
-        </li>
-      </ul>
-      <ul class="lists list03">
-        <li>
-          <p class="tit-img"><span>物が取り出しやすい</span>スライド式収納</p>
-          <p class="lead">システムキッチンには物が取り出しやすく、開閉もスムーズな、スライド式収納を採用しました。</p>
-          <div class="image tb">
-            <img src="./images/equipment01/img07.jpg" alt="" class="">
-            <p class="annotation gothic">参考写真1</p>
-          </div>
-        </li>
-        <li>
-          <p class="tit-img"><span>デッドスペースを有効利用した</span>足元スライド式収納</p>
-          <p class="lead">システムキッチンの足元近くまでスライド式の収納を設置し、収納量を確保しました。</p>
-          <div class="image tb">
-            <img src="./images/equipment01/img08.jpg" alt="" class="">
-            <p class="annotation gothic">参考写真1</p>
-          </div>
-        </li>
-        <li>
-          <p class="tit-img"><span>機能性とデザイン性を兼ね備えた</span>ビルトインタイプ複合シャワー水栓</p>
-          <p class="lead">湯水の開閉・調整レバーと浄水開閉レバーのダブルレバー操作で泡沫吐水とスプレーシャワーの2パターン吐水ができ浄水も原水と同様に吐水できます。アンダーシンクタイプの大容量浄水カートリッジでスパウトインタイプに比べたっぷり長期間浄が使用できます。また、シャワーヘッドを引き出せるので、シンクの掃除などにも便利です。<br><span>※カートリッジ交換費用は別途お客様のご負担となります。</span></p>
-          <div class="image tb">
-            <img src="./images/equipment01/img09.jpg" alt="" class="">
-            <p class="annotation gothic"></p>
-          </div>
-        </li>
-        <li>
-          <div class="image pc">
-            <img src="./images/equipment01/img07.jpg" alt="" class="">
-            <p class="annotation gothic"></p>
-          </div>
-        </li>
-        <li>
-          <div class="image pc">
-            <img src="./images/equipment01/img08.jpg" alt="" class="">
-            <p class="annotation gothic"></p>
-          </div>
-        </li>
-        <li>
-          <div class="image pc">
-            <img src="./images/equipment01/img09.jpg" alt="" class="">
             <p class="annotation gothic"></p>
           </div>
         </li>
@@ -179,9 +135,9 @@
         </li>
         <li>
           <p class="tit-img"><span>雨の日でも洗濯物が乾かせる</span>TES浴室暖房乾燥機</p>
-          <p class="lead">乾燥機能で雨の日でも洗濯物を乾かすことができ、換気によりカビの発生も抑制できる東京ガスのＴＥＳ浴室暖房乾燥機を採用しました。</p>
+          <p class="lead">乾燥機能で雨の日でも洗濯物を乾かすことができ、換気によりカビの発生も抑制できる東京ガスのTES浴室暖房乾燥機を採用しました。</p>
           <div class="image tb">
-            <img src="./images/equipment01/img12.png" alt="" class="">
+            <img src="./images/equipment01/img12.jpg" alt="" class="">
             <p class="annotation gothic"></p>
           </div>
         </li>
@@ -203,7 +159,7 @@
         </li>
         <li>
           <div class="image pc">
-            <img src="./images/equipment01/img12.png" alt="" class="">
+            <img src="./images/equipment01/img12.jpg" alt="" class="">
             <p class="annotation gothic"></p>
           </div>
         </li>
