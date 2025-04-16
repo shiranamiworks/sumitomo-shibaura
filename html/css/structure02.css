@@ -44,6 +44,14 @@
   font-size: 15px;
   line-height: 1.2;
 }
+.structure02 .sections .tit02 {
+  font-size: 21px;
+  letter-spacing: 0.12em;
+  background: #b9a277;
+  color: #fff;
+  padding: 6px 0 6px 16px;
+  margin-bottom: 30px;
+}
 .structure02 .sec01 {
   margin-top: 80px;
 }
@@ -87,7 +95,7 @@
   margin-top: 30px;
 }
 .structure02 .sec01 .list02 {
-  margin-bottom: 40px;
+  margin-bottom: 50px;
 }
 .structure02 .sec01 .list02 li:nth-child(3n), .structure02 .sec01 .list02 li:last-child {
   margin-right: auto;
