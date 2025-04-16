@@ -87,6 +87,11 @@
   position: relative;
   margin-bottom: 10px;
 }
+.structure03 .sec01 .image.img01 {
+  width: 80%;
+  max-width: 750px;
+  margin-right: auto;
+}
 .structure03 .sec01 .list00, .structure03 .sec01 .list01 {
   margin-bottom: 40px;
 }
@@ -186,6 +191,9 @@
   .structure03 .sec01 .list00 li {
     width: 100%;
     margin-right: auto;
+  }
+  .structure03 .sec01 .list00 li .image.img01 {
+    width: 100%;
   }
   .structure03 .sec01 .list00 li:last-child {
     width: 100%;

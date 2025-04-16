@@ -147,6 +147,9 @@
         }
         li:last-child {
           width: 100%;
+          .annotation{
+            text-align: left;
+          }
         }
       }
     } //sec01

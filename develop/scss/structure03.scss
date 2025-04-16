@@ -94,6 +94,11 @@
     .image {
       position: relative;
       margin-bottom: 10px;
+      &.img01{
+        width: 80%;
+        max-width: 750px;
+        margin-right: auto;
+      }
     }
    .list00, .list01 {
       margin-bottom: 40px;
@@ -216,6 +221,9 @@
         li {
           width: 100%;
           margin-right: auto;
+          .image.img01{
+            width: 100%;
+          }
         }
         li:last-child {
           width: 100%;

@@ -129,6 +129,9 @@
   .equipment03 .sec01 .lists li:last-child {
     width: 100%;
   }
+  .equipment03 .sec01 .lists li:last-child .annotation {
+    text-align: left;
+  }
   .equipment03 main {
     padding-bottom: 50px;
   }
