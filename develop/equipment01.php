@@ -129,7 +129,7 @@
           <p class="tit-img"><span>スイッチひとつでバスタイムの準備ができる</span>オートバスシステム［リモコン通話機能付］</p>
           <p class="lead">浴槽へのお湯張り、追い焚き、保温までスイッチひとつで自動操作できるオートバスシステムを採用しました。また、キッチンとバスルームに設置したコントローラーで相互通話も可能です。</p>
           <div class="image">
-            <img src="./images/equipment01/img11.jpg" alt="" class="">
+            <img src="./images/equipment01/img11.png" alt="" class="pc"><img src="./images/equipment01/img11-sp.png" alt="" class="sp">
             <p class="annotation gothic">（概念図）</p>
           </div>
         </li>
