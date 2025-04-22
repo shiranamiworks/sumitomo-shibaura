@@ -125,7 +125,7 @@
 
 
   <div class="annotation-area">
-  <p class="page-annotation js-scroll wrap clearfix"></p></div>
+  <p class="page-annotation js-scroll wrap clearfix">※設備・仕様はタイプにより異なります。</p></div>
 </main>
 
 <div class="structure-link structure-link--3">

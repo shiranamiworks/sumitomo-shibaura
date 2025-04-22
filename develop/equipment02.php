@@ -87,7 +87,7 @@
           <p class="lead">自然エネルギーを有効に活用した太陽光発電システムを屋上に設置。マンションの共用部で使用する電力の一部を賄う事ができます。</p>
           <div class="image tb">
             <img src="./images/equipment02/img05.jpg" alt="" class="">
-            <p class="annotation gothic">（概念図）</p>
+            <p class="annotation gothic">（参考写真）</p>
           </div>
         </li>
         <li>
@@ -103,7 +103,7 @@
         <li>
           <div class="image pc">
             <img src="./images/equipment02/img05.jpg" alt="" class="">
-            <p class="annotation gothic">（概念図）</p>
+            <p class="annotation gothic">（参考写真）</p>
           </div>
         </li>
       </ul>
@@ -113,7 +113,7 @@
 
 
   <div class="annotation-area">
-  <p class="page-annotation js-scroll wrap clearfix">※掲載の参考写真2はメーカーカタログ等の参考写真であり本物件のものではありません。※設備・仕様はタイプにより異なります。</p></div>
+  <p class="page-annotation js-scroll wrap clearfix">※掲載の参考写真はメーカーカタログ等の参考写真であり本物件のものではありません。※設備・仕様はタイプにより異なります。</p></div>
 </main>
 
   <div class="equipment-link equipment-link--4">

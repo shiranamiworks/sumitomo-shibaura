@@ -117,7 +117,7 @@
 
 
   <div class="annotation-area">
-  <p class="page-annotation js-scroll wrap clearfix">※掲載の参考写真1は本物件と同様仕様のコンセプトルーム（総合マンションギャラリー秋葉原館）を撮影（2022年8月）したもので、本物件のものではありません。家具・調度品等オプション仕様は販売価格に含まれておりません。<br>※掲載の参考写真2はメーカーカタログ等の参考写真であり本物件のものではありません。<br>※設備・仕様はタイプにより異なります。</p></div>
+  <p class="page-annotation js-scroll wrap clearfix">※掲載の参考写真はメーカーカタログ等の参考写真であり本物件のものではありません。<br>※設備・仕様はタイプにより異なります。</p></div>
 </main>
 
   <div class="equipment-link equipment-link--4">
