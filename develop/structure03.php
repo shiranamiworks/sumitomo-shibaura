@@ -110,30 +110,14 @@
         <li>
           <p class="tit-img"><span>地震の揺れで収納物が落下しないようにする</span>耐震ラッチ</p>
           <p class="lead">キッチンの吊戸棚、洗面化粧台の三面鏡収納の扉には、地震の揺れによって扉が開いて、収納物が落下しないように、耐震ラッチを設置。住まう方の安全に配慮しています。さらに棚板が外れないように棚板脱落防止用ツメで棚板をしっかり固定しています。</p>
-          <div class="image">
-            <img src="./images/structure03/img06.jpg" alt="" class="">
-            <p class="annotation gothic"></p>
-          </div>
-        </li>
-        <li>
-          <p class="tit-img clearfix"><span>バルコニーからの避難も可能にする</span>バルコニー避難ハッチ</p>
-          <p class="lead">災害発生時、バルコニーを通って下階に降りられるよう各階バルコニーの必要箇所に避難ハッチを設けました。</p>
         </li>
         <li>
           <p class="tit-img"><span>災害時の電力供給に対応する</span>非常用発電機</p>
           <p class="lead">地震などの災害時に万一停電しても、共用部の一部設備［非常用エレベーター、共用部照明の一部、 共用部オートドアの一部、 住戸への給水など］を約48時間稼動させるため、非常用発電機から電力を供給します。（法規制2時間含む）<span>※被災の状況により電力を供給できない場合があります。<br>※稼動時間は燃料満載時前提です。また使用状況により稼動時間が変わる場合があります。<br>※火災信号が入った場合には、法的な防災設備の稼動が優先されます。</span></p>
         </li>
         <li>
-          <p class="tit-img"><span>煙の侵入を低減して避難できる</span>特別避難階段</p>
-          <p class="lead">万一の災害時の避難路として特別避難階段を設置。その階段には扉付きの前室（付室）を設けて火災時の煙の侵入を低減しています。</p>
-        </li>
-        <li>
           <p class="tit-img"><span>熱を感知すると作動する</span>スプリンクラー</p>
           <p class="lead">10階以上の住戸には、熱を感知すると自動的に散水する、スプリンクラーを設置し、迅速な初期消火への対応を実現します。</p>
-          <div class="image">
-            <img src="./images/structure03/img07.jpg" alt="" class="">
-            <p class="annotation gothic"></p>
-          </div>
         </li>
         <li>
           <p class="tit-img clearfix"><span>停電時に自動点灯する</span>ホーム保安灯</p>
@@ -145,91 +129,23 @@
         </li>
         <li>
           <p class="tit-img"><span>火災の拡大を防ぐ</span>消火器</p>
-          <p class="lead">火災に備え、消火器が住戸内に設置されています。</p>
-        </li>
-        <li>
+          <p class="lead mb30">火災に備え、消火器が住戸内に設置されています。</p>
           <p class="tit-img"><span>火災の拡大を防ぐ</span>屋内消火栓</p>
           <p class="lead">火災が発生した時、初期消火を行うことができる屋内消火栓が共用部の各所に設置されています。<br><span>※スプリンクラー設置階は除く。</span></p>
         </li>
         <li>
-          <p class="tit-img"><span>火災を自動で知らせる</span>自動火災報知設備</p>
-          <p class="lead">火災が発生した際、周囲に知らせるための自動火災報知設備が共用部・専有部の各所に設置されています。<span>※火災によっては自動火災報知設備が作動しない場合があります。<br>※9階以下の住戸内には火災感知器が設置され、10階以上の住戸内にはスプリンクラーが設置されております。</span></p>
-        </li>
-        <li>
-          <p class="tit-img"><span>安全に避難するための</span>非常用照明</p>
-          <p class="lead">避難経路の一部には非常用照明を設置。停電時に自動点灯し、より安全に避難できます。</p>
-        </li>
-      </ul>
-
-      <ul class="lists list02">
-        <li>
           <p class="tit-img"><span>火災を警報と自動通報で知らせる</span>火災感知器</p>
           <p class="lead">万一火災などが発生した場合は、火災感知器が作動。住戸内インターホン（親機、副親機）と玄関前インターホン（子機）より警報が鳴り、室内外に異常をお知らせするとともに、警備会社、住友不動産建物サービス設備管理センターへ自動通報されます。</p>
-          <div class="image tb">
+          <div class="image">
             <img src="./images/structure03/img08.png" alt="" class="">
-            <p class="annotation gothic">参考写真</p>
-          </div>
-        </li>
-        <li>
-          <p class="tit-img"><span>ガス漏れを警報と自動通報で知らせる</span>ガス漏れ検知器</p>
-          <p class="lead">万一ガス漏れが発生した場合は、ガス漏れ検知器が作動。当該住戸内のインターホン（親機および副親機）と玄関前インターホン（子機）より警報音が鳴り、室内外に異常をお知らせするとともに、警備会社および住友不動産建物サービス設備管理センターへ自動通報されます。</p>
-          <div class="image tb">
-            <img src="./images/structure03/img09.png" alt="" class="">
             <p class="annotation gothic">参考写真</p>
           </div>
         </li>
         <li>
           <p class="tit-img"><span>災害時に役立つ</span>非常用マンホールトイレ</p>
           <p class="lead">災害時に敷地内の特定のマンホールのフタを外して簡易トイレ（非常用マンホールトイレ）を設置するだけですぐに利用できます。</p>
-          <p class="tit-img"><span>ガスの立ち消えに対応する</span>ガスコンロ立ち消え安全装置</p>
-          <p class="lead">コンロ・魚焼きグリルには、立ち消え安全装置が付いています。火が消えるとガスが自動遮断されます。</p>
-        </li>
-        <li>
-          <div class="image pc">
-            <img src="./images/structure03/img08.png" alt="" class="">
-            <p class="annotation gothic">参考写真</p>
-          </div>
-        </li>
-        <li>
-          <div class="image pc">
-            <img src="./images/structure03/img09.png" alt="" class="">
-            <p class="annotation gothic">参考写真</p>
-          </div>
         </li>
         </ul>
-
-      <ul class="lists list03">
-      <li>
-          <p class="tit-img"><span>ガスの消し忘れに対応する</span>ガスコンロ消し忘れタイマー</p>
-          <p class="lead">コンロ・魚焼きグリルには、それぞれ一定時間で自動的にガスを止め、ブザーでお知らせする安全装置が付いています。</p>
-          <div class="image tb">
-            <img src="./images/structure03/img10.png" alt="" class="">
-            <p class="annotation gothic"></p>
-          </div>
-        </li>
-        <li>
-          <p class="tit-img"><span>温度が上がりすぎるのを防ぐ</span>天ぷら油過熱防止機能</p>
-          <p class="lead">コンロには天ぷら油過熱防止装置が付いています。油が一定温度にまで上昇すると、自動的にガスを止めます。</p>
-          <div class="image tb">
-            <img src="./images/structure03/img11.png" alt="" class="">
-            <p class="annotation gothic"></p>
-          </div>
-        </li>
-      </ul>
-      <ul class="lists list04 pc">
-      <li>
-          <div class="image">
-            <img src="./images/structure03/img10.png" alt="" class="">
-            <p class="annotation gothic"></p>
-          </div>
-        </li>
-        <li>
-          <div class="image">
-            <img src="./images/structure03/img11.png" alt="" class="">
-            <p class="annotation gothic"></p>
-          </div>
-        </li>
-      </ul>
     </div>
   </section><!-- sec01 -->
 

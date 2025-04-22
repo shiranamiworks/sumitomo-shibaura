@@ -38,16 +38,6 @@
         &.half{
           width: 48%;
         }
-        &:nth-child(8),&:nth-child(12){
-          .lead{
-            width: 50%;
-            float: left;
-          }
-          .image{
-            width: 45%;
-            float: right;
-          }
-        }
       }
     }
     line-height: 1;
@@ -116,6 +106,9 @@
     .list01 {
       li{
         margin-bottom: 20px;
+        .mb30{
+          margin-bottom: 30px;
+        }
       }
       li:nth-child(3n){
         margin-right: auto;

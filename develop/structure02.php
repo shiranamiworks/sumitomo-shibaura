@@ -85,56 +85,14 @@
         <li>
           <p class="tit-img font18"><span>暴力的なドア破壊に対応</span>鎌デッド錠</p>
            <p class="lead">枠と扉の間にバールなどを差し込んで解錠する、こじ開けの手口への対策として、玄関ドアのカギを施錠すると鎌状の金具がせりだす鎌デッド錠を採用しました。</p>
-           <div class="image tb">
-            <img src="./images/structure02/img05.jpg" alt="" class=""><p class="annotation gothic"></p>
-           </div>
         </li>
         <li>
           <p class="tit-img"><span>使いやすさと防犯性を兼ね備えた</span>防犯サムターン</p>
            <p class="lead">工具をドアの内側に入れサムターンを回してしまう不正解錠に対応したスイッチ式防犯サムターン（上部1ヶ所）を採用しました。</p>
-           <div class="image tb">
-            <img src="./images/structure02/img06.jpg" alt="" class=""><p class="annotation gothic"></p>
-           </div>
         </li>
         <li>
           <p class="tit-img"><span>玄関前にいる来訪者を映像でチェックできる</span>カメラ付玄関前インターホン（子機）</p>
           <p class="lead">玄関前にいる来訪者を、音声に加え住戸内のカラーモニターより映像でも確認できるカメラ付インターホンを採用。また留守中の来訪者も確認できる録画・録音機能もついています。</p>
-          <div class="image tb">
-            <img src="./images/structure02/img07.jpg" alt="" class=""><p class="annotation gothic"></p>
-           </div>
-        </li>
-        <li>
-           <div class="image wid75 pc">
-            <img src="./images/structure02/img05.jpg" alt="" class=""><p class="annotation gothic"></p>
-           </div>
-        </li>
-        <li>
-           <div class="image wid75 pc">
-            <img src="./images/structure02/img06.jpg" alt="" class=""><p class="annotation gothic"></p>
-           </div>
-        </li>
-        <li>
-           <div class="image wid75 pc">
-            <img src="./images/structure02/img07.jpg" alt="" class=""><p class="annotation gothic"></p>
-           </div>
-        </li>
-        <li class="double">
-          <p class="tit-img"><span>ピッキングなどの不正解錠に配慮した</span>ディンプルキー</p>
-          <div class="lead-box">
-            <p class="lead lead01">各住戸の玄関キーは、ピッキングなどの不正解錠への対応を強化したリバーシブルタイプのディンプルキーを採用しています。</p>
-            <div class="image img01">
-              <img src="./images/structure02/img08.png" alt="" class=""><p class="annotation gothic">（概念図）</p>
-            </div>
-          </div>
-        </li>
-        <li>
-          <p class="tit-img"><span>来訪者を安全に確認できる</span>ドアガード・ドアスコープ（メガネカバー付）</p>
-          <div class="lead-box">
-            <p class="lead">玄関ドアにはドアガードを設置。ペンチなどで切断される恐れが少なく、不正侵入から住まいをガードします。また、ドアの前にいる人を確認できるドアスコープも設けており、外部からの在室確認が出来ないように、メガネカバーが設置されています。</p>
-            <div class="image">
-              <img src="./images/structure02/img09.jpg" alt="" class=""><p class="annotation gothic"></p>
-            </div>
-          </div>
         </li>
       </ul>
     </div>

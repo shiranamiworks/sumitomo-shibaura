@@ -99,6 +99,7 @@
 }
 .structure02 .sec01 .list02 li:nth-child(3n), .structure02 .sec01 .list02 li:last-child {
   margin-right: auto;
+  margin-bottom: 30px;
 }
 .structure02 .sec01 .list02 .image {
   margin-bottom: 40px;

@@ -35,14 +35,6 @@
 .structure03 .sections .lists li.half {
   width: 48%;
 }
-.structure03 .sections .lists li:nth-child(8) .lead, .structure03 .sections .lists li:nth-child(12) .lead {
-  width: 50%;
-  float: left;
-}
-.structure03 .sections .lists li:nth-child(8) .image, .structure03 .sections .lists li:nth-child(12) .image {
-  width: 45%;
-  float: right;
-}
 .structure03 .sections .inner {
   margin: 0 auto;
   width: 70%;
@@ -105,6 +97,9 @@
 }
 .structure03 .sec01 .list01 li {
   margin-bottom: 20px;
+}
+.structure03 .sec01 .list01 li .mb30 {
+  margin-bottom: 30px;
 }
 .structure03 .sec01 .list01 li:nth-child(3n) {
   margin-right: auto;

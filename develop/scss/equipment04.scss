@@ -36,6 +36,9 @@
       &.mb30{
         margin-bottom: 30px;
       }
+      &.mb60{
+        margin-bottom: 60px;
+      }
       &.pb10{
         padding-bottom: 10px;
       }
@@ -83,17 +86,6 @@
         vertical-align: top;
         width: 31%;
         margin-right: 2%;
-      }
-      li:nth-child(3n) {
-        margin-right: auto;
-        .lead{
-          width: 55%;
-          float: left;
-        }
-        .image{
-          width: 40%;
-          float: right;
-        }
       }
     }
   } //sec01

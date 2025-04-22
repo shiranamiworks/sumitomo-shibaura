@@ -67,6 +67,9 @@
 .structure01 .sec01 .lists li.half.half01 {
   margin-right: auto;
 }
+.structure01 .sec01 .lists li.half.half01 .image {
+  width: 75%;
+}
 .structure01 .sec01 .lists li.double {
   width: 66%;
 }
