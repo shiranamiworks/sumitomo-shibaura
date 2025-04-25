@@ -360,9 +360,18 @@
       }
     } //sections
     .public01{
+      .intro{
+        .img01{
+          margin: 0 auto 75px;
+        }
+      }
       .sec02{
         .bg{
           padding: 50px 0 35px;
+        }
+        .img04,.merit{
+          width: 80%;;
+          margin: 0 auto 20px;
         }
       }
     }
