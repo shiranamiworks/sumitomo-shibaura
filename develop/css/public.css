@@ -1,0 +1,356 @@
+@charset "UTF-8";
+/* 
+  css設定 @charsetが消されるsass仕様へのハック用コメントです。削除しないでください。新規作成時も必須！
+ */
+#adtag {
+  opacity: 0;
+}
+
+.breadcrumb {
+  padding: 20px 2%;
+  border-top: 1px solid #f1e9dc;
+  border-bottom: 1px solid #f1e9dc;
+  background: #fff;
+  color: #000;
+}
+
+.breadcrumb ul {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 1.4rem;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  color: #888;
+}
+
+.breadcrumb ul li a {
+  color: #000;
+}
+
+.breadcrumb ul li:not(:last-child) a::after,
+.breadcrumb ul li:not(:last-child) p::after {
+  content: " ＞ ";
+  display: inline-block;
+}
+
+.annotation-area {
+  background: #fff;
+  color: #797979;
+  padding: 40px 0;
+  text-align: left;
+}
+
+.page-annotation {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 10px;
+  line-height: 1.8;
+}
+
+.wrap {
+  margin: 0 auto;
+  width: 84%;
+  max-width: 1200px;
+}
+
+#public main img {
+  max-width: 100%;
+}
+#public .image {
+  position: relative;
+}
+#public .image .annotation {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  text-align: right;
+  font-size: 10px;
+  line-height: 1.4;
+}
+#public .image .annotation.white {
+  color: #fff;
+  text-shadow: 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000;
+}
+#public .public-link {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "RyuminPro", serif;
+}
+#public .public-link a {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100px;
+  padding: 10px 2.5vw;
+  font-size: 1.8rem;
+  font-weight: 300;
+  letter-spacing: 0.1em;
+  border-left: 1px solid #f1e9dc;
+  border-bottom: 1px solid #f1e9dc;
+  background: #fff;
+}
+#public .public-link a.current {
+  color: #fff;
+  background-color: #878076;
+}
+#public .public-link--2 a {
+  width: 50%;
+}
+#public .public-link--3 a {
+  width: 33.33%;
+}
+#public .public-link--4 a {
+  width: 25%;
+}
+#public .public-link--5 a {
+  width: 20%;
+}
+#public .public-link a::before {
+  content: "\f105";
+  position: absolute;
+  left: calc(2.5vw - 15px);
+  top: 50%;
+  font-family: "Font Awesome 6 Free";
+  font-weight: 600;
+  color: #808081;
+  transform: translateY(-50%);
+}
+#public .public-link a.current::before {
+  color: #fff;
+}
+#public .public-link a:after {
+  content: "";
+  position: absolute;
+  display: block;
+  position: absolute;
+  left: calc(2.5vw - 19px);
+  top: 50%;
+  transform: translateY(-50%) rotate(-45deg);
+  border-right: 3px solid #808081;
+  border-bottom: 3px solid #808081;
+  width: 8px;
+  height: 8px;
+}
+#public .public-link a.current:after {
+  border-color: #fff;
+}
+#public .public-link a::before {
+  display: none;
+}
+#public .caption {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 10px;
+}
+@media screen and (max-width: 1400px) {
+  #public .public-link a {
+    font-size: 1.28vw;
+  }
+}
+@media screen and (max-width: 768px) {
+  #public .public-link a {
+    padding: 10px 25px;
+    font-size: 1.75vw;
+  }
+  #public .public-link--4 a {
+    width: 50%;
+  }
+  #public .public-link--5 a {
+    width: 33.33%;
+  }
+  #public .public-link a::before {
+    left: 10px;
+  }
+}
+@media screen and (max-width: 639px) {
+  #public .public-link a {
+    width: 100% !important;
+    height: 13.33vw;
+    font-size: 4vw;
+  }
+  #public .public-link a::before {
+    left: 6vw;
+  }
+  #public .public-link a:after {
+    left: 6vw;
+  }
+  #public .caption {
+    max-width: 100%;
+  }
+}
+
+main {
+  color: #3e3a39;
+  font-family: "RyuminPro", serif;
+  line-height: 1;
+}
+
+sup {
+  font-size: 10px;
+  vertical-align: super;
+}
+
+sp {
+  display: none;
+}
+
+pc {
+  display: block;
+}
+
+.page-annotation {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.main-visual {
+  position: relative;
+  border: none;
+}
+
+.sections {
+  text-align: center;
+  background: url(../images/public01/bg.jpg);
+  background-size: cover;
+  padding: 140px 0 0;
+}
+.sections .inner {
+  margin: 0 auto;
+  width: 84%;
+  max-width: 1000px;
+}
+.sections .image {
+  position: relative;
+}
+.sections .annotation {
+  font-size: 10px;
+  text-align: right;
+}
+.sections .tit-img {
+  max-width: 750px;
+  margin: 0 auto 60px;
+}
+.sections .title {
+  font-size: 40px;
+  line-height: 1.6;
+  color: #002d43;
+  margin-bottom: 50px;
+}
+.sections .text {
+  font-size: 18px;
+  line-height: 2.2;
+  letter-spacing: 0.12em;
+  color: #002d43;
+  margin-bottom: 70px;
+}
+.sections .tab-inner {
+  width: 60%;
+  margin: 0 auto 80px;
+}
+.sections .slider {
+  margin-bottom: 70px;
+}
+.sections .slick-slide {
+  position: relative;
+}
+.sections .thumbnail .slick-track {
+  transform: unset !important;
+  background-color: rgba(0, 0, 0, 0.65);
+  padding: 20px 0 30px;
+  width: 100% !important;
+}
+.sections .slick-list,
+.sections .slick-track {
+  justify-content: center;
+}
+.sections .thumbnail-img {
+  opacity: 0.3;
+  transition: opacity 0.3s linear;
+  width: 12% !important;
+  margin: 20px 10px 0;
+}
+.sections .thumbnail-img.slick-current {
+  opacity: 1;
+}
+
+.public01 .intro .img01 {
+  max-width: 1080px;
+  width: 67.5%;
+  margin: 0 auto 150px;
+}
+.public01 .sec01 .img03 {
+  max-width: 1190px;
+  width: 74.375%;
+  margin: 0 auto;
+}
+.public01 .sec02 .bg {
+  padding-top: 100px;
+  padding-bottom: 70px;
+  background-color: rgba(0, 0, 0, 0.65);
+}
+.public01 .sec02 .bg .title, .public01 .sec02 .bg .text {
+  color: #fff;
+}
+.public01 .sec02 .img04, .public01 .sec02 .merit {
+  max-width: 1000px;
+  width: 62.5%;
+  margin: 55px auto 40px;
+}
+
+.public02 .sec02 .image03 {
+  margin-top: 200px;
+}
+.public02 .sec03 {
+  padding-bottom: 100px;
+}
+.public02 .sec03 .plant {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.public02 .sec03 .plant li {
+  width: 23%;
+  margin-bottom: 20px;
+}
+.public02 .sec03 .plant li .name {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  sp {
+    display: block;
+  }
+  pc {
+    display: none;
+  }
+  .sections {
+    text-align: left;
+    padding: 60px 0 0;
+  }
+  .sections .tit-img {
+    margin-bottom: 30px;
+  }
+  .sections .title {
+    font-size: 30px;
+    line-height: 1.8;
+    margin-bottom: 15px;
+  }
+  .sections .text {
+    font-size: 16px;
+    margin-bottom: 35px;
+  }
+  .public01 .sec02 .bg {
+    padding: 50px 0 35px;
+  }
+  .public02 .sec02 .image03 {
+    margin-top: 50px;
+  }
+  .public02 .sec03 .plant li {
+    width: 48%;
+    margin-bottom: 10px;
+  }
+  .public02 .sec03 .plant li .name {
+    font-size: 14px;
+    margin-top: 5px;
+  }
+}/*# sourceMappingURL=public.css.map */
