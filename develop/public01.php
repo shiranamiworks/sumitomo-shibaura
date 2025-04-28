@@ -63,7 +63,7 @@
           <p class="text">グランドエントランスホールから私邸へと続く空間は、住まう人のための上質な動線。<br>存在感のあるホールと落ち着きのある内廊下が住まいの価値を高め、<br>暮らしの誇りとなる美意識を体現します。</p>
         </div>
       <div class="image img04"><img src="./images/public01/img04.jpg" alt=""><p class="annotation white">内廊下完成予想図</p></div>
-      <div class="merit"><img src="./images/public01/merit.svg"></div>
+      <div class="merit"><img src="./images/public01/merit.svg" class="pc"><img src="./images/public01/merit-sp.svg" class="sp"></div>
     </div>
     </section><!-- sec01 -->
     
