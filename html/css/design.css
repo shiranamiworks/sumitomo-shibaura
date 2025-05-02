@@ -238,7 +238,6 @@ pc {
 .sections .text {
   font-size: 18px;
   line-height: 2.2;
-  letter-spacing: 0.12em;
   color: #002d43;
   margin-bottom: 70px;
 }
