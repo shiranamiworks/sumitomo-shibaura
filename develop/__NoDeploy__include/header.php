@@ -138,7 +138,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         </ul>
         <ul>
           <li>
-            <p class="active">"<span class="f-en">PLAN</span><br>間取り</p>
+            <p><span class="f-en">PLAN</span><br>間取り</p>
           </li>
           <li class="has-child">
             <p class="active"><span class="f-en">EQUIPMENT ・QUALITY</span><br>設備・仕様</p>
