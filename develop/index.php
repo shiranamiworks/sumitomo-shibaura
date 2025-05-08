@@ -82,7 +82,7 @@
               <h3>アクセス</h3>
              </div>
         </a>
-        <a href="./design01.html">
+        <!-- <a href="./design01.html">
           <figure><img src="./images/top/img_design.jpg" alt="デザイン"><p class="annotation white">外観完成予想図4</p></figure>
             <div class="contents-link__ttl">
               <p class="f-en">DESIGN</p>
@@ -95,7 +95,7 @@
               <p class="f-en">PUBLIC</p>
               <h3>共用空間</h3>
              </div>
-        </a>
+        </a> -->
          <div class="ComingSoon">
           <div class="contents-link__ttl">
              <p class="f-en">Coming Soon</p>
