@@ -112,26 +112,20 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
           <li>
             <a href="<?= $page_settings["directory_pos"]  ?>concept.html"><span class="f-en">CONCEPT</span><br>コンセプト</a>
           </li>
-          <li>
-            <p><span class="f-en">DESIGN</span><br>デザイン</p>
-          </li>
-          <!-- <li class="has-child">
+          <li class="has-child">
             <p class="active"><span class="f-en">DESIGN</span><br>デザイン</p>
             <div class="sub-menu">
               <a href="<?= $page_settings["directory_pos"]  ?>design01.html">ファサード</a>
               <a href="<?= $page_settings["directory_pos"]  ?>design02.html">ランドスケープ</a>
             </div>
-          </li> -->
-          <li>
-            <p><span class="f-en">COMMON SPACE</span><br>共用空間</p>
           </li>
-          <!-- <li class="has-child">
+          <li class="has-child">
             <p class="active"><span class="f-en">COMMON SPACE</span><br>共用空間</p>
             <div class="sub-menu">
               <a href="<?= $page_settings["directory_pos"]  ?>public01.html">迎賓空間</a>
               <a href="<?= $page_settings["directory_pos"]  ?>public02.html">共用施設</a>
             </div>
-          </li> -->
+          </li>
           <li>
             <p><span class="f-en">PRIVATE SPACE</span><br>室内空間</p>
           </li>
@@ -192,10 +186,8 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
       <ul>
         <li><a href="<?= $page_settings["directory_pos"]  ?>">トップ</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>concept.html">コンセプト</a></li>
-        <li>デザイン</li>
-        <li>共用空間</li>
-        <!-- <li><a href="<?= $page_settings["directory_pos"]  ?>design01.html">デザイン</a></li>
-        <li><a href="<?= $page_settings["directory_pos"]  ?>public01.html">共用空間</a></li> -->
+        <li><a href="<?= $page_settings["directory_pos"]  ?>design01.html">デザイン</a></li>
+        <li><a href="<?= $page_settings["directory_pos"]  ?>public01.html">共用空間</a></li>
         <li>室内空間</li>
         <li>間取り</li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>equipment01.html">設備・仕様</a></li>

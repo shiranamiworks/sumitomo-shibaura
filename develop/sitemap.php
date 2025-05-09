@@ -23,12 +23,10 @@
   <ul>
 	<li class="top"><a href="/shuto/tamachi/">シティタワー東京田町 トップ</a></li>
 	<li class="concept"><a href="concept.html">コンセプト</a></li>
-	<li class="design">デザイン</li>
-	<li class="public">共用空間</li>
-	<!-- <li class="design"><span>デザイン<br />
+	<li class="design"><span>デザイン<br />
 	（ <a href="design01.html">ファサード</a> ／ <a href="design02.html">ランドスケープ</a> ）</span></li>
 	<li class="public"><span>共用空間<br />
-	（ <a href="public01.html">迎賓空間</a> ／ <a href="public02.html">共用施設</a> ）</span></li> -->
+	（ <a href="public01.html">迎賓空間</a> ／ <a href="public02.html">共用施設</a> ）</span></li>
 	<!--li class="private"><span>室内空間
 	（ <a href="private_01.html"></a> ／ <a href="private_02.html"></a> ）</span></li-->
 	<li class="private">室内空間</li>
