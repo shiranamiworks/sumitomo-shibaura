@@ -18,6 +18,8 @@
   }
   .page-annotation {
     font-family: "Noto Sans JP", sans-serif;
+    padding-bottom: 40px;
+    border-bottom: 1px solid;
   }
   sup {
     vertical-align: text-top;
@@ -58,7 +60,6 @@
     }
   } //sections
   .sec01 {
-    margin-top: 80px;
     .lists {
       li {
         display: inline-block;

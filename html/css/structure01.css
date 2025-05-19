@@ -13,6 +13,8 @@
 }
 .structure01 .page-annotation {
   font-family: "Noto Sans JP", sans-serif;
+  padding-bottom: 40px;
+  border-bottom: 1px solid;
 }
 .structure01 sup {
   vertical-align: text-top;
@@ -51,9 +53,6 @@
 .structure01 .sections .caps {
   font-size: 1.1rem;
   line-height: 1.6;
-}
-.structure01 .sec01 {
-  margin-top: 80px;
 }
 .structure01 .sec01 .lists li {
   display: inline-block;
