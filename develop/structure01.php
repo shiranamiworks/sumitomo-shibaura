@@ -68,9 +68,6 @@
             <img src="./images/structure01/img02.png" alt="">
           </div>
         </li>
-        <!-- <li>
-          <p class="caps"></p>
-        </li> -->
       </ul>
       <ul class="lists list02 clearfix">
         <li class="full">
@@ -122,6 +119,8 @@
       </ul>
     </div>
   </section><!-- sec01 -->
+
+  <div class="label"><img src="./images/structure01/label.svg" alt="ŠÂ‹««”\•\Ž¦" class=""></div>
 
 
   <div class="annotation-area">
